@@ -1,4 +1,7 @@
-# Uniform Ribbons (Modern)
+<img width="1536" height="1024" alt="uniformribbons" src="https://github.com/user-attachments/assets/7264c8f6-223b-4ce0-93b0-6b0c91d2756b" />
+
+---
+# Uniform Ribbons 
 
 Modernized front-end port of an older “ribbon checker / rack builder” style project.
 
