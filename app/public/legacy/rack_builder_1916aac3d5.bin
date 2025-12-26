@@ -1,0 +1,1971 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ribbon Rack Builder - Ribbon Checker</title>
+<meta http-equiv="content-type"
+content="text/html; charset=UTF-8" />
+<meta content="Military Ribbon Rack Builder, All armed forces combined Rack Builder medal ribbon order of precedence chart checker rack builder with star devices; including US Army, US Navy, US Marine Corps, US Air Force, and US Coast Guard.  Rack Builder Medal Ribbon Checker to verify and create per Rack Builder ribbons uniform regulations.   Military Ribbon Rack Builder" name="description" />
+<meta name="keywords" content="Rack Builder, ribbons, medals, rank, medal of honor, devices, star, silver, gold, bronze, marine corps, navy, defense, service, oak, bronze" />
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+<link rel="icon" href="favicon.ico" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<link href="/css/uniformribbons.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="wrap">
+
+<div id="content">
+<div class="contentbody">
+<h1 class="dod">Military Medal Order of Precedence Rack Builder Ribbon Checker</h1>
+<h2 class="dod">Military Ribbon Order of Precedence Award Chart Order - Rack Builder</h2>
+<h3>Military Ribbons Order of Precedence</h3>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- uniformribbons -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9401926288011295"
+     data-ad-slot="5549702273"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<form action="#" method="post" enctype="multipart/form-data">
+
+<div class="accordion">
+<h3 class="open html_close"><a href="/medal-of-honor/" title="US Army Medal of Honor">Medal of Honor Ribbon</a></h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/medal_of_honor_ribbon.png" alt="medal of honor" title="medal of honor"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" name="ribbon" value="medal_of_honor_ribbon"></td>
+<td class="thirdcol"></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Army Distinguished Service Cross Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/army_distinguished_service_cross_ribbon.png" alt="Army Distinguished Service Cross" title="Army Distinguished Service Cross"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" name="ribbon" value="army_distinguished_service_cross_ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="DSCAR"></optgroup><option value="">DEVICE</option>
+<option value="army_distinguished_service_cross_ribbon-1_bronze_oak">1 OAK</option>
+<option value="army_distinguished_service_cross_ribbon-2_bronze_oak">2 OAK</option>
+<option value="army_distinguished_service_cross_ribbon-3_bronze_oak">3 OAK</option>
+<option value="army_distinguished_service_cross_ribbon-4_bronze_oak">4 OAK</option>
+<option value="army_distinguished_service_cross_ribbon-5_bronze_oak">5 OAK</option>
+<option value="army_distinguished_service_cross_ribbon-6_bronze_oak">6 OAK</option>
+<option value="army_distinguished_service_cross_ribbon-7_bronze_oak">7 OAK</option>
+<option value="army_distinguished_service_cross_ribbon-8_bronze_oak">8 OAK</option>
+<option value="army_distinguished_service_cross_ribbon-9_bronze_oak">9 OAK</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close"><a href="/navy-cross/" title="Navy Cross Medal">Navy Cross</a></h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/navy_cross_ribbon.png" alt="Navy Cross" title="Navy Cross"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" name="ribbon" value="navy_cross_ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE">
+</optgroup>
+<option value="">DEVICE</option>
+<option value="navy_cross_ribbon-1_gold_star">1 STAR</option>
+<option value="navy_cross_ribbon-2_gold_star">2 STAR</option>
+<option value="navy_cross_ribbon-3_gold_star">3 STAR</option>
+<option value="navy_cross_ribbon-4_gold_star">4 STAR</option>
+<option value="navy_cross_ribbon-5_gold_star">5 STAR</option>
+<option value="navy_cross_ribbon-6_gold_star">6 STAR</option>
+<option value="navy_cross_ribbon-7_gold_star">7 STAR</option>
+<option value="navy_cross_ribbon-8_gold_star">8 STAR</option>
+<option value="navy_cross_ribbon-9_gold_star">9 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Air Force Cross Ribbon</h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/air_force_cross_ribbon.png" alt="Air Force Cross" title="Air Force Cross"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" name="ribbon" value="air_force_cross_ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="air_force_cross_ribbon-1_bronze_oak">1 OAK</option>
+<option value="air_force_cross_ribbon-2_bronze_oak">2 OAK</option>
+<option value="air_force_cross_ribbon-3_bronze_oak">3 OAK</option>
+<option value="air_force_cross_ribbon-4_bronze_oak">4 OAK</option>
+<option value="air_force_cross_ribbon-5_bronze_oak">5 OAK</option>
+<option value="air_force_cross_ribbon-6_bronze_oak">6 OAK</option>
+<option value="air_force_cross_ribbon-7_bronze_oak">7 OAK</option>
+<option value="air_force_cross_ribbon-8_bronze_oak">8 OAK</option>
+<option value="air_force_cross_ribbon-9_bronze_oak">9 OAK</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Coast Guard Cross Ribbon</h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/coast_guard_cross_ribbon.png" alt="Coast Guard Cross" title="Coast Guard Cross"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" name="ribbon" value="coast_guard_cross_ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="coast_guard_cross_ribbon-1_gold_star">1 STAR</option>
+<option value="coast_guard_cross_ribbon-2_gold_star">2 STAR</option>
+<option value="coast_guard_cross_ribbon-3_gold_star">3 STAR</option>
+<option value="coast_guard_cross_ribbon-4_gold_star">4 STAR</option>
+<option value="coast_guard_cross_ribbon-5_gold_star">5 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Defense Distinguished Service Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/defense_distinguished_service_ribbon.png" alt="Defense Distinguished Service" title="Defense Distinguished Service"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" name="ribbon" value="defense_distinguished_service_ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="DDSM"></optgroup><option value="">DEVICE</option>
+<option value="defense_distinguished_service_ribbon-1_bronze_oak">1 OAK</option>
+<option value="defense_distinguished_service_ribbon-2_bronze_oak">2 OAK</option>
+<option value="defense_distinguished_service_ribbon-3_bronze_oak">3 OAK</option>
+<option value="defense_distinguished_service_ribbon-4_bronze_oak">4 OAK</option>
+<option value="defense_distinguished_service_ribbon-5_bronze_oak">5 OAK</option>
+<option value="defense_distinguished_service_ribbon-6_bronze_oak">6 OAK</option>
+<option value="defense_distinguished_service_ribbon-7_bronze_oak">7 OAK</option>
+<option value="defense_distinguished_service_ribbon-8_bronze_oak">8 OAK</option>
+<option value="defense_distinguished_service_ribbon-9_bronze_oak">9 OAK</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Army Distinguished Service Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/army_distinguished_service_ribbon.png" alt="Army Distinguished Service" title="Army Distinguished Service"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="army_distinguished_service_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="DSM"></optgroup><option value="">DEVICE</option>
+<option value="army_distinguished_service_ribbon-1_bronze_oak">1 OAK</option>
+<option value="army_distinguished_service_ribbon-2_bronze_oak">2 OAK</option>
+<option value="army_distinguished_service_ribbon-3_bronze_oak">3 OAK</option>
+<option value="army_distinguished_service_ribbon-4_bronze_oak">4 OAK</option>
+<option value="army_distinguished_service_ribbon-5_bronze_oak">5 OAK</option>
+<option value="army_distinguished_service_ribbon-6_bronze_oak">6 OAK</option>
+<option value="army_distinguished_service_ribbon-7_bronze_oak">7 OAK</option>
+<option value="army_distinguished_service_ribbon-8_bronze_oak">8 OAK</option>
+<option value="army_distinguished_service_ribbon-9_bronze_oak">9 OAK</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Navy Distinguished Service Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/navy_distinguished_service_ribbon.png" alt="Navy Distinguished Service" title="Navy Distinguished Service"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="navy_distinguished_service_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE">
+</optgroup>
+<option value="">DEVICE</option>
+<option value="navy_distinguished_service_ribbon-1_gold_star">1 STAR</option>
+<option value="navy_distinguished_service_ribbon-2_gold_star">2 STAR</option>
+<option value="navy_distinguished_service_ribbon-3_gold_star">3 STAR</option>
+<option value="navy_distinguished_service_ribbon-4_gold_star">4 STAR</option>
+<option value="navy_distinguished_service_ribbon-5_gold_star">5 STAR</option>
+<option value="navy_distinguished_service_ribbon-6_gold_star">6 STAR</option>
+<option value="navy_distinguished_service_ribbon-7_gold_star">7 STAR</option>
+<option value="navy_distinguished_service_ribbon-8_gold_star">8 STAR</option>
+<option value="navy_distinguished_service_ribbon-9_gold_star">9 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Air Force Distinguished Service Medal Ribbon</h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/air_force_distinguished_service_ribbon.png" alt="Air Force Distinguished Service" title="Air Force Distinguished Service"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="air_force_distinguished_service_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="air_force_distinguished_service_ribbon-1_bronze_oak">1 OAK</option>
+<option value="air_force_distinguished_service_ribbon-2_bronze_oak">2 OAK</option>
+<option value="air_force_distinguished_service_ribbon-3_bronze_oak">3 OAK</option>
+<option value="air_force_distinguished_service_ribbon-4_bronze_oak">4 OAK</option>
+<option value="air_force_distinguished_service_ribbon-5_bronze_oak">5 OAK</option>
+<option value="air_force_distinguished_service_ribbon-6_bronze_oak">6 OAK</option>
+<option value="air_force_distinguished_service_ribbon-7_bronze_oak">7 OAK</option>
+<option value="air_force_distinguished_service_ribbon-8_bronze_oak">8 OAK</option>
+<option value="air_force_distinguished_service_ribbon-9_bronze_oak">9 OAK</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Coast Guard Distinguished Service Medal Ribbon</h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/coast_guard_distinguished_service_ribbon.png" alt="Coast Guard Distinguished Service" title="Coast Guard Distinguished Service"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="coast_guard_distinguished_service_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="coast_guard_distinguished_service_ribbon-1_gold_star">1 STAR</option>
+<option value="coast_guard_distinguished_service_ribbon-2_gold_star">2 STAR</option>
+<option value="coast_guard_distinguished_service_ribbon-3_gold_star">3 STAR</option>
+<option value="coast_guard_distinguished_service_ribbon-4_gold_star">4 STAR</option>
+<option value="coast_guard_distinguished_service_ribbon-5_gold_star">5 STAR</option>
+<option value="coast_guard_distinguished_service_ribbon-6_gold_star">6 STAR</option>
+<option value="coast_guard_distinguished_service_ribbon-7_gold_star">7 STAR</option>
+<option value="coast_guard_distinguished_service_ribbon-8_gold_star">8 STAR</option>
+<option value="coast_guard_distinguished_service_ribbon-9_gold_star">9 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Silver Star Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/silver_star_ribbon.png" alt="Silver Star Ribbon" title="Silver Star"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="silver_star_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="SSM"></optgroup><option value="">DEVICE</option>
+<option value="silver_star_ribbon-1_bronze_oak">1 OAK</option>
+<option value="silver_star_ribbon-2_bronze_oak">2 OAK</option>
+<option value="silver_star_ribbon-3_bronze_oak">3 OAK</option>
+<option value="silver_star_ribbon-4_bronze_oak">4 OAK</option>
+<option value="silver_star_ribbon-5_bronze_oak">5 OAK</option>
+<option value="silver_star_ribbon-6_bronze_oak">6 OAK</option>
+<option value="silver_star_ribbon-7_bronze_oak">7 OAK</option>
+<option value="silver_star_ribbon-8_bronze_oak">8 OAK</option>
+<option value="silver_star_ribbon-9_bronze_oak">9 OAK</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Defense Superior Service Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/defense_superior_service_ribbon.png" alt="Defense Superior Service Ribbon" title="Defense Superior Service Ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="defense_superior_service_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="DSSM"></optgroup><option value="">DEVICE</option>
+<option value="defense_superior_service_ribbon-1_bronze_oak">1 OAK</option>
+<option value="defense_superior_service_ribbon-2_bronze_oak">2 OAK</option>
+<option value="defense_superior_service_ribbon-3_bronze_oak">3 OAK</option>
+<option value="defense_superior_service_ribbon-4_bronze_oak">4 OAK</option>
+<option value="defense_superior_service_ribbon-5_bronze_oak">5 OAK</option>
+<option value="defense_superior_service_ribbon-6_bronze_oak">6 OAK</option>
+<option value="defense_superior_service_ribbon-7_bronze_oak">7 OAK</option>
+<option value="defense_superior_service_ribbon-8_bronze_oak">8 OAK</option>
+<option value="defense_superior_service_ribbon-9_bronze_oak">9 OAK</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Legion of Merit Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/legion_of_merit_ribbon.png" alt="Legion of Merit Ribbon" title="Legion of Merit Ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="legion_of_merit_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="LM"></optgroup><option value="">DEVICE</option>
+<option value="legion_of_merit_ribbon-1_bronze_oak">1 OAK</option>
+<option value="legion_of_merit_ribbon-2_bronze_oak">2 OAK</option>
+<option value="legion_of_merit_ribbon-3_bronze_oak">3 OAK</option>
+<option value="legion_of_merit_ribbon-4_bronze_oak">4 OAK</option>
+<option value="legion_of_merit_ribbon-5_bronze_oak">5 OAK</option>
+<option value="legion_of_merit_ribbon-6_bronze_oak">6 OAK</option>
+<option value="legion_of_merit_ribbon-7_bronze_oak">7 OAK</option>
+<option value="legion_of_merit_ribbon-8_bronze_oak">8 OAK</option>
+<option value="legion_of_merit_ribbon-9_bronze_oak">9 OAK</option>
+<option value="legion_of_merit_ribbon-v_device">COMBAT V</option>
+<option value="legion_of_merit_ribbon-1_bronze_oak_v_device">1 OAK V</option>
+<option value="legion_of_merit_ribbon-2_bronze_oak_v_device">2 OAK V</option>
+<option value="legion_of_merit_ribbon-3_bronze_oak_v_device">3 OAK V</option>
+<option value="legion_of_merit_ribbon-4_bronze_oak_v_device">4 OAK V</option>
+<option value="legion_of_merit_ribbon-5_bronze_oak_v_device">5 OAK V</option>
+<option value="legion_of_merit_ribbon-6_bronze_oak_v_device">6 OAK V</option>
+<option value="legion_of_merit_ribbon-7_bronze_oak_v_device">7 OAK V</option>
+<option value="legion_of_merit_ribbon-8_bronze_oak_v_device">8 OAK V</option>
+<option value="legion_of_merit_ribbon-9_bronze_oak_v_device">9 OAK V</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Distinguished Flying Cross Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/distinguished_flying_cross_ribbon.png" alt="distinguished flying cross ribbon" title="distinguished flying cross ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="distinguished_flying_cross_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="DFC"></optgroup><option value="">DEVICE</option>
+<option value="distinguished_flying_cross_ribbon-1_bronze_oak">1 OAK</option>
+<option value="distinguished_flying_cross_ribbon-2_bronze_oak">2 OAK</option>
+<option value="distinguished_flying_cross_ribbon-3_bronze_oak">3 OAK</option>
+<option value="distinguished_flying_cross_ribbon-4_bronze_oak">4 OAK</option>
+<option value="distinguished_flying_cross_ribbon-5_bronze_oak">5 OAK</option>
+<option value="distinguished_flying_cross_ribbon-6_bronze_oak">6 OAK</option>
+<option value="distinguished_flying_cross_ribbon-7_bronze_oak">7 OAK</option>
+<option value="distinguished_flying_cross_ribbon-8_bronze_oak">8 OAK</option>
+<option value="distinguished_flying_cross_ribbon-9_bronze_oak">9 OAK</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Soldier's Medal Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/soldier_medal_ribbon.png" alt="Soldier Medal Ribbon" title="Soldier Medal Ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="soldier_medal_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="SM"></optgroup><option value="">DEVICE</option>
+<option value="soldier_medal_ribbon-1_bronze_oak">1 OAK</option>
+<option value="soldier_medal_ribbon-2_bronze_oak">2 OAK</option>
+<option value="soldier_medal_ribbon-3_bronze_oak">3 OAK</option>
+<option value="soldier_medal_ribbon-4_bronze_oak">4 OAK</option>
+<option value="soldier_medal_ribbon-5_bronze_oak">5 OAK</option>
+<option value="soldier_medal_ribbon-6_bronze_oak">6 OAK</option>
+<option value="soldier_medal_ribbon-7_bronze_oak">7 OAK</option>
+<option value="soldier_medal_ribbon-8_bronze_oak">8 OAK</option>
+<option value="soldier_medal_ribbon-9_bronze_oak">9 OAK</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Navy Marine Corps Medal Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/navy_marine_corps_ribbon.png" alt="Airman Ribbon" title="Airman Ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="navy_marine_corps_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE">
+</optgroup>
+<option value="">DEVICE</option>
+<option value="navy_marine_corps_ribbon-1_gold_star">1 STAR</option>
+<option value="navy_marine_corps_ribbon-2_gold_star">2 STAR</option>
+<option value="navy_marine_corps_ribbon-3_gold_star">3 STAR</option>
+<option value="navy_marine_corps_ribbon-4_gold_star">4 STAR</option>
+<option value="navy_marine_corps_ribbon-5_gold_star">5 STAR</option>
+<option value="navy_marine_corps_ribbon-6_gold_star">6 STAR</option>
+<option value="navy_marine_corps_ribbon-7_gold_star">7 STAR</option>
+<option value="navy_marine_corps_ribbon-8_gold_star">8 STAR</option>
+<option value="navy_marine_corps_ribbon-9_gold_star">9 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Airman Medal Ribbon</h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/airman_ribbon.png" alt="Airman Ribbon" title="Airman Ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="airman_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="airman_ribbon-1_bronze_oak">1 OAK</option>
+<option value="airman_ribbon-2_bronze_oak">2 OAK</option>
+<option value="airman_ribbon-3_bronze_oak">3 OAK</option>
+<option value="airman_ribbon-4_bronze_oak">4 OAK</option>
+<option value="airman_ribbon-5_bronze_oak">5 OAK</option>
+<option value="airman_ribbon-6_bronze_oak">6 OAK</option>
+<option value="airman_ribbon-7_bronze_oak">7 OAK</option>
+<option value="airman_ribbon-8_bronze_oak">8 OAK</option>
+<option value="airman_ribbon-9_bronze_oak">9 OAK</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Coast Guard Medal Ribbon</h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/coast_guard_medal_ribbon.png" alt="Coast Guard Medal Ribbon" title="Coast Guard Ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="coast_guard_medal_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="coast_guard_medal_ribbon-1_gold_star">1 STAR</option>
+<option value="coast_guard_medal_ribbon-2_gold_star">2 STAR</option>
+<option value="coast_guard_medal_ribbon-3_gold_star">3 STAR</option>
+<option value="coast_guard_medal_ribbon-4_gold_star">4 STAR</option>
+<option value="coast_guard_medal_ribbon-5_gold_star">5 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Bronze Star Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/bronze_star_ribbon.png" alt="bronze Star ribbons" title="Bronze Star"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="bronze_star_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="BSM"></optgroup><option value="">DEVICE</option>
+<option value="bronze_star_ribbon-1_bronze_oak">1 OAK</option>
+<option value="bronze_star_ribbon-2_bronze_oak">2 OAK</option>
+<option value="bronze_star_ribbon-3_bronze_oak">3 OAK</option>
+<option value="bronze_star_ribbon-4_bronze_oak">4 OAK</option>
+<option value="bronze_star_ribbon-5_bronze_oak">5 OAK</option>
+<option value="bronze_star_ribbon-6_bronze_oak">6 OAK</option>
+<option value="bronze_star_ribbon-7_bronze_oak">7 OAK</option>
+<option value="bronze_star_ribbon-8_bronze_oak">8 OAK</option>
+<option value="bronze_star_ribbon-9_bronze_oak">9 OAK</option>
+<option value="bronze_star_ribbon-v_device">COMBAT V</option>
+<option value="bronze_star_ribbon-1_bronze_oak_v_device">1 OAK V</option>
+<option value="bronze_star_ribbon-2_bronze_oak_v_device">2 OAK V</option>
+<option value="bronze_star_ribbon-3_bronze_oak_v_device">3 OAK V</option>
+<option value="bronze_star_ribbon-4_bronze_oak_v_device">4 OAK V</option>
+<option value="bronze_star_ribbon-5_bronze_oak_v_device">5 OAK V</option>
+<option value="bronze_star_ribbon-6_bronze_oak_v_device">6 OAK V</option>
+<option value="bronze_star_ribbon-7_bronze_oak_v_device">7 OAK V</option>
+<option value="bronze_star_ribbon-8_bronze_oak_v_device">8 OAK V</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Purple Heart Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/purple_heart_ribbon.png" alt="purple heart ribbon" title="purple heart"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="purple_heart_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="PH"></optgroup><option value="">DEVICE</option>
+<option value="purple_heart_ribbon-1_bronze_oak">1 OAK</option>
+<option value="purple_heart_ribbon-2_bronze_oak">2 OAK</option>
+<option value="purple_heart_ribbon-3_bronze_oak">3 OAK</option>
+<option value="purple_heart_ribbon-4_bronze_oak">4 OAK</option>
+<option value="purple_heart_ribbon-5_bronze_oak">5 OAK</option>
+<option value="purple_heart_ribbon-6_bronze_oak">6 OAK</option>
+<option value="purple_heart_ribbon-7_bronze_oak">7 OAK</option>
+<option value="purple_heart_ribbon-8_bronze_oak">8 OAK</option>
+<option value="purple_heart_ribbon-9_bronze_oak">9 OAK</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Defense Meritorious Service Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/defense_meritorious_service_ribbon.png" alt="ribbon defense meritorious service" title="defense meritorious service"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="defense_meritorious_service_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="DMSM"></optgroup><option value="">DEVICE</option>
+<option value="defense_meritorious_service_ribbon-1_bronze_oak">1 OAK</option>
+<option value="defense_meritorious_service_ribbon-2_bronze_oak">2 OAK</option>
+<option value="defense_meritorious_service_ribbon-3_bronze_oak">3 OAK</option>
+<option value="defense_meritorious_service_ribbon-4_bronze_oak">4 OAK</option>
+<option value="defense_meritorious_service_ribbon-5_bronze_oak">5 OAK</option>
+<option value="defense_meritorious_service_ribbon-6_bronze_oak">6 OAK</option>
+<option value="defense_meritorious_service_ribbon-7_bronze_oak">7 OAK</option>
+<option value="defense_meritorious_service_ribbon-8_bronze_oak">8 OAK</option>
+<option value="defense_meritorious_service_ribbon-9_bronze_oak">9 OAK</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Meritorious Service Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/meritorious_service_ribbon.png" alt="meritorious service" title="meritorious service ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="meritorious_service_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="MSM"></optgroup><option value="">DEVICE</option>
+<option value="meritorious_service_ribbon-1_bronze_oak">1 OAK</option>
+<option value="meritorious_service_ribbon-2_bronze_oak">2 OAK</option>
+<option value="meritorious_service_ribbon-3_bronze_oak">3 OAK</option>
+<option value="meritorious_service_ribbon-4_bronze_oak">4 OAK</option>
+<option value="meritorious_service_ribbon-5_bronze_oak">5 OAK</option>
+<option value="meritorious_service_ribbon-6_bronze_oak">6 OAK</option>
+<option value="meritorious_service_ribbon-7_bronze_oak">7 OAK</option>
+<option value="meritorious_service_ribbon-8_bronze_oak">8 OAK</option>
+<option value="meritorious_service_ribbon-9_bronze_oak">9 OAK</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Air Medal Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/air_medal_ribbon.png" alt="air medal ribbon" title="air medal ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="air_medal_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="AMS"></optgroup><option value="">DEVICE</option>
+<option value="air_medal_ribbon-2_numeral">2nd</option>
+<option value="air_medal_ribbon-3_numeral">3rd</option>
+<option value="air_medal_ribbon-4_numeral">4th</option>
+<option value="air_medal_ribbon-5_numeral">5th</option>
+<option value="air_medal_ribbon-6_numeral">6th</option>
+<option value="air_medal_ribbon-7_numeral">7th</option>
+<option value="air_medal_ribbon-8_numeral">8th</option>
+<option value="air_medal_ribbon-9_numeral">9th</option>
+<option value="air_medal_ribbon-v_device">COMBAT V</option>
+<option value="air_medal_ribbon-2_numeral_v_device">2nd V</option>
+<option value="air_medal_ribbon-3_numeral_v_device">3rd V</option>
+<option value="air_medal_ribbon-4_numeral_v_device">4th V</option>
+<option value="air_medal_ribbon-5_numeral_v_device">5th V</option>
+<option value="air_medal_ribbon-6_numeral_v_device">6th V</option>
+<option value="air_medal_ribbon-7_numeral_v_device">7th V</option>
+<option value="air_medal_ribbon-8_numeral_v_device">8th V</option>
+<option value="air_medal_ribbon-9_numeral_v_device">9th V</option>
+
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Joint Service Commendation Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/joint_service_commendation_ribbon.png" alt="joint service commendation ribbon" title="joint service commendation ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="joint_service_commendation_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="JSCM"></optgroup><option value="">DEVICE</option>
+<option value="joint_service_commendation_ribbon-1_bronze_oak">1 OAK</option>
+<option value="joint_service_commendation_ribbon-2_bronze_oak">2 OAK</option>
+<option value="joint_service_commendation_ribbon-3_bronze_oak">3 OAK</option>
+<option value="joint_service_commendation_ribbon-4_bronze_oak">4 OAK</option>
+<option value="joint_service_commendation_ribbon-5_bronze_oak">5 OAK</option>
+<option value="joint_service_commendation_ribbon-6_bronze_oak">6 OAK</option>
+<option value="joint_service_commendation_ribbon-7_bronze_oak">7 OAK</option>
+<option value="joint_service_commendation_ribbon-8_bronze_oak">8 OAK</option>
+<option value="joint_service_commendation_ribbon-9_bronze_oak">9 OAK</option>
+<option value="joint_service_commendation_ribbon-v_device">COMBAT V</option>
+<option value="joint_service_commendation_ribbon-1_bronze_oak_v_device">1 OAK V</option>
+<option value="joint_service_commendation_ribbon-2_bronze_oak_v_device">2 OAK V</option>
+<option value="joint_service_commendation_ribbon-3_bronze_oak_v_device">3 OAK V</option>
+<option value="joint_service_commendation_ribbon-4_bronze_oak_v_device">4 OAK V</option>
+<option value="joint_service_commendation_ribbon-5_bronze_oak_v_device">5 OAK V</option>
+<option value="joint_service_commendation_ribbon-6_bronze_oak_v_device">6 OAK V</option>
+<option value="joint_service_commendation_ribbon-7_bronze_oak_v_device">7 OAK V</option>
+<option value="joint_service_commendation_ribbon-8_bronze_oak_v_device">8 OAK V</option>
+<option value="joint_service_commendation_ribbon-9_bronze_oak_v_device">9 OAK V</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Army Commendation Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/army_commendation_ribbon.png" alt="Army Commendation Ribbon" title="Army Commendation Ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="army_commendation_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="ARCM"></optgroup><option value="">DEVICE</option>
+<option value="army_commendation_ribbon-1_bronze_oak">1 OAK</option>
+<option value="army_commendation_ribbon-2_bronze_oak">2 OAK</option>
+<option value="army_commendation_ribbon-3_bronze_oak">3 OAK</option>
+<option value="army_commendation_ribbon-4_bronze_oak">4 OAK</option>
+<option value="army_commendation_ribbon-5_bronze_oak">5 OAK</option>
+<option value="army_commendation_ribbon-6_bronze_oak">6 OAK</option>
+<option value="army_commendation_ribbon-7_bronze_oak">7 OAK</option>
+<option value="army_commendation_ribbon-8_bronze_oak">8 OAK</option>
+<option value="army_commendation_ribbon-9_bronze_oak">9 OAK</option>
+<option value="army_commendation_ribbon-v_device">COMBAT V</option>
+<option value="army_commendation_ribbon-1_bronze_oak_v_device">1 OAK V</option>
+<option value="army_commendation_ribbon-2_bronze_oak_v_device">2 OAK V</option>
+<option value="army_commendation_ribbon-3_bronze_oak_v_device">3 OAK V</option>
+<option value="army_commendation_ribbon-4_bronze_oak_v_device">4 OAK V</option>
+<option value="army_commendation_ribbon-5_bronze_oak_v_device">5 OAK V</option>
+<option value="army_commendation_ribbon-6_bronze_oak_v_device">6 OAK V</option>
+<option value="army_commendation_ribbon-7_bronze_oak_v_device">7 OAK V</option>
+<option value="army_commendation_ribbon-8_bronze_oak_v_device">8 OAK V</option>
+<option value="army_commendation_ribbon-9_bronze_oak_v_device">9 OAK V</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Navy Marine Corps Commendation Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/navy_marine_corps_commendation_ribbon.png" alt="navy marine corps commendation ribbon" title="navy marine corps commendation ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="navy_marine_corps_commendation_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="navy_marine_corps_commendation_ribbon-1_gold_star">1 STAR</option>
+<option value="navy_marine_corps_commendation_ribbon-2_gold_star">2 STAR</option>
+<option value="navy_marine_corps_commendation_ribbon-3_gold_star">3 STAR</option>
+<option value="navy_marine_corps_commendation_ribbon-4_gold_star">4 STAR</option>
+<option value="navy_marine_corps_commendation_ribbon-5_gold_star">5 STAR</option>
+<option value="navy_marine_corps_commendation_ribbon-6_gold_star">6 STAR</option>
+<option value="navy_marine_corps_commendation_ribbon-7_gold_star">7 STAR</option>
+<option value="navy_marine_corps_commendation_ribbon-8_gold_star">8 STAR</option>
+<option value="navy_marine_corps_commendation_ribbon-9_gold_star">9 STAR</option>
+<optgroup label="COMBAT V"></optgroup>
+<option value="navy_marine_corps_commendation_ribbon-device_v">COMBAT V</option>
+<option value="navy_marine_corps_commendation_ribbon-1_gold_star_device_v">1 STAR V</option>
+<option value="navy_marine_corps_commendation_ribbon-2_gold_star_device_v">2 STAR V</option>
+<option value="navy_marine_corps_commendation_ribbon-3_gold_star_device_v">3 STAR V</option>
+<option value="navy_marine_corps_commendation_ribbon-4_gold_star_device_v">4 STAR V</option>
+<option value="navy_marine_corps_commendation_ribbon-5_gold_star_device_v">5 STAR V</option>
+<option value="navy_marine_corps_commendation_ribbon-6_gold_star_device_v">6 STAR V</option>
+<option value="navy_marine_corps_commendation_ribbon-7_gold_star_device_v">7 STAR V</option>
+<option value="navy_marine_corps_commendation_ribbon-8_gold_star_device_v">8 STAR V</option>
+<option value="navy_marine_corps_commendation_ribbon-9_gold_star_device_v">9 STAR V</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Air Force Commendation Medal Ribbon</h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/air_force_commendation_ribbon.png" alt="Air Force Commendation Ribbon" title="Air Force Commendation ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="air_force_commendation_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="air_force_commendation_ribbon-1_bronze_oak">1 OAK</option>
+<option value="air_force_commendation_ribbon-2_bronze_oak">2 OAK</option>
+<option value="air_force_commendation_ribbon-3_bronze_oak">3 OAK</option>
+<option value="air_force_commendation_ribbon-4_bronze_oak">4 OAK</option>
+<option value="air_force_commendation_ribbon-5_bronze_oak">5 OAK</option>
+<option value="air_force_commendation_ribbon-6_bronze_oak">6 OAK</option>
+<option value="air_force_commendation_ribbon-7_bronze_oak">7 OAK</option>
+<option value="air_force_commendation_ribbon-8_bronze_oak">8 OAK</option>
+<option value="air_force_commendation_ribbon-9_bronze_oak">9 OAK</option>
+<option value="air_force_commendation_ribbon-v_device">V</option>
+<option value="air_force_commendation_ribbon-1_bronze_oak_v_device">1 OAK V</option>
+<option value="air_force_commendation_ribbon-2_bronze_oak_v_device">2 OAK V</option>
+<option value="air_force_commendation_ribbon-3_bronze_oak_v_device">3 OAK V</option>
+<option value="air_force_commendation_ribbon-4_bronze_oak_v_device">4 OAK V</option>
+<option value="air_force_commendation_ribbon-5_bronze_oak_v_device">5 OAK V</option>
+<option value="air_force_commendation_ribbon-6_bronze_oak_v_device">6 OAK V</option>
+<option value="air_force_commendation_ribbon-7_bronze_oak_v_device">7 OAK V</option>
+<option value="air_force_commendation_ribbon-8_bronze_oak_v_device">8 OAK V</option>
+<option value="air_force_commendation_ribbon-9_bronze_oak_v_device">9 OAK V</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Coast Guard Commendation Medal Ribbon</h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/coast_guard_commendation_ribbon.png" alt="joint service commendation ribbon" title="joint service commendation ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="coast_guard_commendation_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="coast_guard_commendation_ribbon-1_gold_star">1 STAR</option>
+<option value="coast_guard_commendation_ribbon-2_gold_star">2 STAR</option>
+<option value="coast_guard_commendation_ribbon-3_gold_star">3 STAR</option>
+<option value="coast_guard_commendation_ribbon-4_gold_star">4 STAR</option>
+<option value="coast_guard_commendation_ribbon-5_gold_star">5 STAR</option>
+<option value="coast_guard_commendation_ribbon-device_v">V</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Joint Service Achievement Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/joint_service_achievement_ribbon.png" alt="Joint Service Achievement ribbon" title="joint service achievement ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="joint_service_achievement_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="JSAM"></optgroup><option value="">DEVICE</option>
+<option value="joint_service_achievement_ribbon-1_bronze_oak">1 OAK</option>
+<option value="joint_service_achievement_ribbon-2_bronze_oak">2 OAK</option>
+<option value="joint_service_achievement_ribbon-3_bronze_oak">3 OAK</option>
+<option value="joint_service_achievement_ribbon-4_bronze_oak">4 OAK</option>
+<option value="joint_service_achievement_ribbon-5_bronze_oak">5 OAK</option>
+<option value="joint_service_achievement_ribbon-6_bronze_oak">6 OAK</option>
+<option value="joint_service_achievement_ribbon-7_bronze_oak">7 OAK</option>
+<option value="joint_service_achievement_ribbon-8_bronze_oak">8 OAK</option>
+<option value="joint_service_achievement_ribbon-9_bronze_oak">9 OAK</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Army Achievement Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/army_achievement_ribbon.png" alt="Army Achievement Ribbon" title="Army Achievement Ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="army_achievement_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="AAM"></optgroup><option value="">DEVICE</option>
+<option value="army_achievement_ribbon-1_bronze_oak">1 OAK</option>
+<option value="army_achievement_ribbon-2_bronze_oak">2 OAK</option>
+<option value="army_achievement_ribbon-3_bronze_oak">3 OAK</option>
+<option value="army_achievement_ribbon-4_bronze_oak">4 OAK</option>
+<option value="army_achievement_ribbon-5_bronze_oak">5 OAK</option>
+<option value="army_achievement_ribbon-6_bronze_oak">6 OAK</option>
+<option value="army_achievement_ribbon-7_bronze_oak">7 OAK</option>
+<option value="army_achievement_ribbon-8_bronze_oak">8 OAK</option>
+<option value="army_achievement_ribbon-9_bronze_oak">9 OAK</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Navy Marine Corps Achievement Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/navy_marine_corps_achievement_ribbon.png" alt="navy marine corps achievement ribbon" title="navy marine corps achievement ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="navy_marine_corps_achievement_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="navy_marine_corps_achievement_ribbon-1_gold_star">1 STAR</option>
+<option value="navy_marine_corps_achievement_ribbon-2_gold_star">2 STAR</option>
+<option value="navy_marine_corps_achievement_ribbon-3_gold_star">3 STAR</option>
+<option value="navy_marine_corps_achievement_ribbon-4_gold_star">4 STAR</option>
+<option value="navy_marine_corps_achievement_ribbon-5_gold_star">5 STAR</option>
+<option value="navy_marine_corps_achievement_ribbon-6_gold_star">6 STAR</option>
+<option value="navy_marine_corps_achievement_ribbon-7_gold_star">7 STAR</option>
+<option value="navy_marine_corps_achievement_ribbon-8_gold_star">8 STAR</option>
+<option value="navy_marine_corps_achievement_ribbon-9_gold_star">9 STAR</option>
+<optgroup label="COMBAT V"></optgroup>
+<option value="navy_marine_corps_achievement_ribbon-device_v">COMBAT V</option>
+<option value="navy_marine_corps_achievement_ribbon-1_gold_star_device_v">1 STAR V</option>
+<option value="navy_marine_corps_achievement_ribbon-2_gold_star_device_v">2 STAR V</option>
+<option value="navy_marine_corps_achievement_ribbon-3_gold_star_device_v">3 STAR V</option>
+<option value="navy_marine_corps_achievement_ribbon-4_gold_star_device_v">4 STAR V</option>
+<option value="navy_marine_corps_achievement_ribbon-5_gold_star_device_v">5 STAR V</option>
+<option value="navy_marine_corps_achievement_ribbon-6_gold_star_device_v">6 STAR V</option>
+<option value="navy_marine_corps_achievement_ribbon-7_gold_star_device_v">7 STAR V</option>
+<option value="navy_marine_corps_achievement_ribbon-8_gold_star_device_v">8 STAR V</option>
+<option value="navy_marine_corps_achievement_ribbon-9_gold_star_device_v">9 STAR V</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Air Force Achievement Medal Ribbon</h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/air_force_achievement_ribbon.png" alt="Air Force Achievement ribbon" title="Air Force Achievement ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="air_force_achievement_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="air_force_achievement_ribbon-1_bronze_oak">1 OAK</option>
+<option value="air_force_achievement_ribbon-2_bronze_oak">2 OAK</option>
+<option value="air_force_achievement_ribbon-3_bronze_oak">3 OAK</option>
+<option value="air_force_achievement_ribbon-4_bronze_oak">4 OAK</option>
+<option value="air_force_achievement_ribbon-5_bronze_oak">5 OAK</option>
+<option value="air_force_achievement_ribbon-6_bronze_oak">6 OAK</option>
+<option value="air_force_achievement_ribbon-7_bronze_oak">7 OAK</option>
+<option value="air_force_achievement_ribbon-8_bronze_oak">8 OAK</option>
+<option value="air_force_achievement_ribbon-9_bronze_oak">9 OAK</option>
+<option value="air_force_achievement_ribbon-v_device">V</option>
+<option value="air_force_achievement_ribbon-1_bronze_oak_v_device">1 OAK V</option>
+<option value="air_force_achievement_ribbon-2_bronze_oak_v_device">2 OAK V</option>
+<option value="air_force_achievement_ribbon-3_bronze_oak_v_device">3 OAK V</option>
+<option value="air_force_achievement_ribbon-4_bronze_oak_v_device">4 OAK V</option>
+<option value="air_force_achievement_ribbon-5_bronze_oak_v_device">5 OAK V</option>
+<option value="air_force_achievement_ribbon-6_bronze_oak_v_device">6 OAK V</option>
+<option value="air_force_achievement_ribbon-7_bronze_oak_v_device">7 OAK V</option>
+<option value="air_force_achievement_ribbon-8_bronze_oak_v_device">8 OAK V</option>
+<option value="air_force_achievement_ribbon-9_bronze_oak_v_device">9 OAK V</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Coast Guard Achievement Medal Ribbon</h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/coast_guard_achievement_ribbon.png" alt="Coast Guard Achievement ribbon" title="Coast Guard achievement ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="coast_guard_achievement_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="coast_guard_achievement_ribbon-1_gold_star">1 STAR</option>
+<option value="coast_guard_achievement_ribbon-2_gold_star">2 STAR</option>
+<option value="coast_guard_achievement_ribbon-3_gold_star">3 STAR</option>
+<option value="coast_guard_achievement_ribbon-4_gold_star">4 STAR</option>
+<option value="coast_guard_achievement_ribbon-5_gold_star">5 STAR</option>
+<option value="coast_guard_achievement_ribbon-6_gold_star">6 STAR</option>
+<option value="coast_guard_achievement_ribbon-7_gold_star">7 STAR</option>
+<option value="coast_guard_achievement_ribbon-8_gold_star">8 STAR</option>
+<option value="coast_guard_achievement_ribbon-9_gold_star">9 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Navy Marine Corps Combat Action Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/navy_marine_corps_combat_action_ribbon.png" title="navy marine corps combat action ribbon.png" alt="navy marine corps combat action ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" data-label-on="ON" data-label-off="OFF" value="navy_marine_corps_combat_action_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="navy_marine_corps_combat_action_ribbon-1_gold_star">1 STAR</option>
+<option value="navy_marine_corps_combat_action_ribbon-2_gold_star">2 STAR</option>
+<option value="navy_marine_corps_combat_action_ribbon-3_gold_star">3 STAR</option>
+<option value="navy_marine_corps_combat_action_ribbon-4_gold_star">4 STAR</option>
+<option value="navy_marine_corps_combat_action_ribbon-5_gold_star">5 STAR</option>
+<option value="navy_marine_corps_combat_action_ribbon-6_gold_star">6 STAR</option>
+<option value="navy_marine_corps_combat_action_ribbon-7_gold_star">7 STAR</option>
+<option value="navy_marine_corps_combat_action_ribbon-8_gold_star">8 STAR</option>
+<option value="navy_marine_corps_combat_action_ribbon-9_gold_star">9 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Prisoner of War Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/prisoner_of_war_ribbon.png" alt="prisoner of war ribbon" title="prisoner of war ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="prisoner_of_war_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="POWM"></optgroup><option value="">DEVICE</option>
+<option value="prisoner_of_war_ribbon-1_bronze_star">1 STAR</option>
+<option value="prisoner_of_war_ribbon-2_bronze_star">2 STAR</option>
+<option value="prisoner_of_war_ribbon-3_bronze_star">3 STAR</option>
+<option value="prisoner_of_war_ribbon-4_bronze_star">4 STAR</option>
+<option value="prisoner_of_war_ribbon-5_bronze_star">5 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Army Good Conduct Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/army_good_conduct_ribbon.png" alt="Army Good Conduct Ribbon" title="Army Good Conduct Ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="army_good_conduct_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="USAGCM"></optgroup><option value="">DEVICE</option>
+<option value="army_good_conduct_ribbon-2_bronze_knots">2nd</option>
+<option value="army_good_conduct_ribbon-3_bronze_knots">3rd</option>
+<option value="army_good_conduct_ribbon-4_bronze_knots">4th</option>
+<option value="army_good_conduct_ribbon-5_bronze_knots">5th</option>
+<option value="army_good_conduct_ribbon-1_silver_knots">6th</option>
+<option value="army_good_conduct_ribbon-2_silver_knots">7th</option>
+<option value="army_good_conduct_ribbon-3_silver_knots">8th</option>
+<option value="army_good_conduct_ribbon-4_silver_knots">9th</option>
+<option value="army_good_conduct_ribbon-5_silver_knots">10th</option>
+<option value="army_good_conduct_ribbon-1_gold_knots">11th</option>
+<option value="army_good_conduct_ribbon-2_gold_knots">12th</option>
+<option value="army_good_conduct_ribbon-3_gold_knots">13th</option>
+<option value="army_good_conduct_ribbon-4_gold_knots">14th</option>
+<option value="army_good_conduct_ribbon-5_gold_knots">15th</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Navy Good Conduct Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/navy_good_conduct_ribbon.png" alt="navy good conduct ribbon" title="navy good conduct ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="navy_good_conduct_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="navy_good_conduct_ribbon-1_bronze_star">1 STAR</option>
+<option value="navy_good_conduct_ribbon-2_bronze_star">2 STAR</option>
+<option value="navy_good_conduct_ribbon-3_bronze_star">3 STAR</option>
+<option value="navy_good_conduct_ribbon-4_bronze_star">4 STAR</option>
+<option value="navy_good_conduct_ribbon-5_bronze_star">5 STAR</option>
+<option value="navy_good_conduct_ribbon-6_bronze_star">6 STAR</option>
+<option value="navy_good_conduct_ribbon-7_bronze_star">7 STAR</option>
+<option value="navy_good_conduct_ribbon-8_bronze_star">8 STAR</option>
+<option value="navy_good_conduct_ribbon-9_bronze_star">9 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Air Force Good Conduct Medal Ribbon</h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/air_force_good_conduct_ribbon.png" alt="Air Force Good Conduct Ribbon" title="Air Force Good Conduct Ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="air_force_good_conduct_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="air_force_good_conduct_ribbon-1_bronze_oak">1 OAK</option>
+<option value="air_force_good_conduct_ribbon-2_bronze_oak">2 OAK</option>
+<option value="air_force_good_conduct_ribbon-3_bronze_oak">3 OAK</option>
+<option value="air_force_good_conduct_ribbon-4_bronze_oak">4 OAK</option>
+<option value="air_force_good_conduct_ribbon-5_bronze_oak">5 OAK</option>
+<option value="air_force_good_conduct_ribbon-6_bronze_oak">6 OAK</option>
+<option value="air_force_good_conduct_ribbon-7_bronze_oak">7 OAK</option>
+<option value="air_force_good_conduct_ribbon-8_bronze_oak">8 OAK</option>
+<option value="air_force_good_conduct_ribbon-9_bronze_oak">9 OAK</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Coast Guard Good Conduct Medal Ribbon</h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/coast_guard_good_conduct_ribbon.png" alt="Coast Guard Good Conduct Medal" title="Coast Guard Good Conduct Medal"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="coast_guard_good_conduct_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="coast_guard_good_conduct_ribbon-1_bronze_star">1 STAR</option>
+<option value="coast_guard_good_conduct_ribbon-2_bronze_star">2 STAR</option>
+<option value="coast_guard_good_conduct_ribbon-3_bronze_star">3 STAR</option>
+<option value="coast_guard_good_conduct_ribbon-4_bronze_star">4 STAR</option>
+<option value="coast_guard_good_conduct_ribbon-5_bronze_star">5 STAR</option>
+<option value="coast_guard_good_conduct_ribbon-6_bronze_star">6 STAR</option>
+<option value="coast_guard_good_conduct_ribbon-7_bronze_star">7 STAR</option>
+<option value="coast_guard_good_conduct_ribbon-8_bronze_star">8 STAR</option>
+<option value="coast_guard_good_conduct_ribbon-9_bronze_star">9 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Army Reserve Components Achievement Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/army_reserve_components_achievement_ribbon.png" alt="Army Reserve Components Achievement Ribbon" title="Army Reserve Components Achievement Ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="army_reserve_components_achievement_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="ARCAM"></optgroup><option value="">DEVICE</option>
+<option value="army_reserve_components_achievement_ribbon-1_bronze_oak">1 OAK</option>
+<option value="army_reserve_components_achievement_ribbon-2_bronze_oak">2 OAK</option>
+<option value="army_reserve_components_achievement_ribbon-3_bronze_oak">3 OAK</option>
+<option value="army_reserve_components_achievement_ribbon-4_bronze_oak">4 OAK</option>
+<option value="army_reserve_components_achievement_ribbon-5_bronze_oak">5 OAK</option>
+<option value="army_reserve_components_achievement_ribbon-6_bronze_oak">6 OAK</option>
+<option value="army_reserve_components_achievement_ribbon-7_bronze_oak">7 OAK</option>
+<option value="army_reserve_components_achievement_ribbon-8_bronze_oak">8 OAK</option>
+<option value="army_reserve_components_achievement_ribbon-9_bronze_oak">9 OAK</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Naval Reserve Meritorious Service Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/naval_reserve_meritorious_service_ribbon.png" alt="naval reserve meritorious service ribbon" title="naval reserve_meritorious service ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="naval_reserve_meritorious_service_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="naval_reserve_meritorious_service_ribbon-1_bronze_star">1 STAR</option>
+<option value="naval_reserve_meritorious_service_ribbon-2_bronze_star">2 STAR</option>
+<option value="naval_reserve_meritorious_service_ribbon-3_bronze_star">3 STAR</option>
+<option value="naval_reserve_meritorious_service_ribbon-4_bronze_star">4 STAR</option>
+<option value="naval_reserve_meritorious_service_ribbon-5_bronze_star">5 STAR</option>
+<option value="naval_reserve_meritorious_service_ribbon-6_bronze_star">6 STAR</option>
+<option value="naval_reserve_meritorious_service_ribbon-7_bronze_star">7 STAR</option>
+<option value="naval_reserve_meritorious_service_ribbon-8_bronze_star">8 STAR</option>
+<option value="naval_reserve_meritorious_service_ribbon-9_bronze_star">9 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Selected Marine Corps Reserve Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/selected_marine_corps_reserve_ribbon.png" alt="selected marine corps reserve ribbon" title="selected marine corps reserve ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="selected_marine_corps_reserve_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="selected_marine_corps_reserve_ribbon-1_bronze_star">1 STAR</option>
+<option value="selected_marine_corps_reserve_ribbon-2_bronze_star">2 STAR</option>
+<option value="selected_marine_corps_reserve_ribbon-3_bronze_star">3 STAR</option>
+<option value="selected_marine_corps_reserve_ribbon-4_bronze_star">4 STAR</option>
+<option value="selected_marine_corps_reserve_ribbon-5_bronze_star">5 STAR</option>
+<option value="selected_marine_corps_reserve_ribbon-6_bronze_star">6 STAR</option>
+<option value="selected_marine_corps_reserve_ribbon-7_bronze_star">7 STAR</option>
+<option value="selected_marine_corps_reserve_ribbon-8_bronze_star">8 STAR</option>
+<option value="selected_marine_corps_reserve_ribbon-9_bronze_star">9 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Air Reserve Meritorious Service Medal Ribbon</h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/air_reserve_meritorious_service_ribbon.png" alt="Air Reserve Meritorious Service" title="Air Reserve Meritorious Service"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="air_reserve_meritorious_service_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="air_reserve_meritorious_service_ribbon-1_bronze_oak">1 OAK</option>
+<option value="air_reserve_meritorious_service_ribbon-2_bronze_oak">2 OAK</option>
+<option value="air_reserve_meritorious_service_ribbon-3_bronze_oak">3 OAK</option>
+<option value="air_reserve_meritorious_service_ribbon-4_bronze_oak">4 OAK</option>
+<option value="air_reserve_meritorious_service_ribbon-5_bronze_oak">5 OAK</option>
+<option value="air_reserve_meritorious_service_ribbon-6_bronze_oak">6 OAK</option>
+<option value="air_reserve_meritorious_service_ribbon-7_bronze_oak">7 OAK</option>
+<option value="air_reserve_meritorious_service_ribbon-8_bronze_oak">8 OAK</option>
+<option value="air_reserve_meritorious_service_ribbon-9_bronze_oak">9 OAK</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Coast Guard Reserve Good Conduct Medal Ribbon</h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/coast_guard_reserve_good_conduct_ribbon.png" alt="Coast Guard Reserve Good Conduct Medal" title="Coast Guard Reserve Good Conduct Medal"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="coast_guard_reserve_good_conduct_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="coast_guard_reserve_good_conduct_ribbon-1_bronze_star">1 STAR</option>
+<option value="coast_guard_reserve_good_conduct_ribbon-2_bronze_star">2 STAR</option>
+<option value="coast_guard_reserve_good_conduct_ribbon-3_bronze_star">3 STAR</option>
+<option value="coast_guard_reserve_good_conduct_ribbon-4_bronze_star">4 STAR</option>
+<option value="coast_guard_reserve_good_conduct_ribbon-5_bronze_star">5 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Navy Expeditionary Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/navy_expeditionary_ribbon.png" alt="navy expeditionary ribbon" title="navy expeditionary ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="navy_expeditionary_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="navy_expeditionary_ribbon-1_bronze_star">1 STAR</option>
+<option value="navy_expeditionary_ribbon-2_bronze_star">2 STAR</option>
+<option value="navy_expeditionary_ribbon-3_bronze_star">3 STAR</option>
+<option value="navy_expeditionary_ribbon-4_bronze_star">4 STAR</option>
+<option value="navy_expeditionary_ribbon-5_bronze_star">5 STAR</option>
+<option value="navy_expeditionary_ribbon-6_bronze_star">2 STAR</option>
+<option value="navy_expeditionary_ribbon-7_bronze_star">3 STAR</option>
+<option value="navy_expeditionary_ribbon-8_bronze_star">4 STAR</option>
+<option value="navy_expeditionary_ribbon-9_bronze_star">5 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Marine Corps Expeditionary Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/marine_corps_expeditionary_ribbon.png" alt="marine corps expeditionary ribbon" title="marine corps expeditionary ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="marine_corps_expeditionary_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="marine_corps_expeditionary_ribbon-1_bronze_star">1 STAR</option>
+<option value="marine_corps_expeditionary_ribbon-2_bronze_star">2 STAR</option>
+<option value="marine_corps_expeditionary_ribbon-3_bronze_star">3 STAR</option>
+<option value="marine_corps_expeditionary_ribbon-4_bronze_star">4 STAR</option>
+<option value="marine_corps_expeditionary_ribbon-5_bronze_star">5 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Army Occupation Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/army_occupation_ribbon.png" alt="Army Occupation Ribbon" title="Army Occupation Ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="army_occupation_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="AOSM"></optgroup><option value="">DEVICE</option>
+<option value="army_occupation_ribbon-plane">plane</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Navy Occupation Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/navy_occupation_ribbon.png" alt="navy occupation ribbon" title="navy occupation ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="navy_occupation_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="navy_occupation_ribbon-plane">plane</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">National Defense Service Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/national_defense_service_medal_ribbon.png" alt="national defense service medal ribbon" title="national defense service medal ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="national_defense_service_medal_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="NDSM"></optgroup><option value="">DEVICE</option>
+<option value="national_defense_service_medal_ribbon-1_bronze_star">1 STAR</option>
+<option value="national_defense_service_medal_ribbon-2_bronze_star">2 STAR</option>
+<option value="national_defense_service_medal_ribbon-3_bronze_star">3 STAR</option>
+<option value="national_defense_service_medal_ribbon-4_bronze_star">4 STAR</option>
+<option value="national_defense_service_medal_ribbon-5_bronze_star">5 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+
+<h3 class="open html_close">Antarctica Service Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/antarctica_service_ribbon.png" alt="antarctica service ribbon" title="antarctica service ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="antarctica_service_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="ASM"></optgroup><option value="">DEVICE</option>
+<option value="antarctica_service_ribbon-bronze_winter_over">B winter</option>
+<option value="antarctica_service_ribbon-silver_winter_over">S winter</option>
+<option value="antarctica_service_ribbon-gold_winter_over">G winter</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Coast Guard Arctic Service Medal Ribbon</h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/coast_guard_arctic_service_ribbon.png" alt="Coast Guard Arctic Service Ribbon" title="Coast Guard Arctic Service Ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="coast_guard_arctic_service_ribbon" name="ribbon"></td>
+<td class="thirdcol"></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Armed Forces Expeditionary Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/armed_forces_expeditionary_ribbon.png" alt="armed forces expeditionary ribbon" title="armed forces expeditionary ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="armed_forces_expeditionary_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="AFEM"></optgroup><option value="">DEVICE</option>
+<option value="armed_forces_expeditionary_ribbon-1_bronze_star">1 STAR</option>
+<option value="armed_forces_expeditionary_ribbon-2_bronze_star">2 STAR</option>
+<option value="armed_forces_expeditionary_ribbon-3_bronze_star">3 STAR</option>
+<option value="armed_forces_expeditionary_ribbon-4_bronze_star">4 STAR</option>
+<option value="armed_forces_expeditionary_ribbon-5_bronze_star">5 STAR</option>
+<option value="armed_forces_expeditionary_ribbon-arrowhead">ARROW</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Vietnam Service Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/vietnam_service_ribbon.png" alt="vietnam service ribbon" title="vietnam service ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="vietnam_service_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="VSM"></optgroup><option value="">DEVICE</option>
+<option value="vietnam_service_ribbon-1_bronze_star">1 STAR</option>
+<option value="vietnam_service_ribbon-2_bronze_star">2 STAR</option>
+<option value="vietnam_service_ribbon-3_bronze_star">3 STAR</option>
+<option value="vietnam_service_ribbon-4_bronze_star">4 STAR</option>
+<option value="vietnam_service_ribbon-5_bronze_star">5 STAR</option>
+<option value="vietnam_service_ribbon-6_bronze_star">6 STAR</option>
+<option value="vietnam_service_ribbon-7_bronze_star">7 STAR</option>
+<option value="vietnam_service_ribbon-8_bronze_star">8 STAR</option>
+<option value="vietnam_service_ribbon-9_bronze_star">9 STAR</option>
+<option value="vietnam_service_ribbon-arrowhead">ARROW</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Southwest Asia Service Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/southwest_asia_service_ribbon.png" alt="southwest asia service ribbon" title="southwest asia service ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="southwest_asia_service_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="SASM"></optgroup><option value="">DEVICE</option>
+<option value="southwest_asia_service_ribbon-1_bronze_star">1 STAR</option>
+<option value="southwest_asia_service_ribbon-2_bronze_star">2 STAR</option>
+<option value="southwest_asia_service_ribbon-3_bronze_star">3 STAR</option>
+<option value="southwest_asia_service_ribbon-4_bronze_star">4 STAR</option>
+<option value="southwest_asia_service_ribbon-5_bronze_star">5 STAR</option>
+<option value="southwest_asia_service_ribbon-6_bronze_star">6 STAR</option>
+<option value="southwest_asia_service_ribbon-7_bronze_star">7 STAR</option>
+<option value="southwest_asia_service_ribbon-8_bronze_star">8 STAR</option>
+<option value="southwest_asia_service_ribbon-9_bronze_star">9 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Kosovo Campaign Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/kosovo_campaign_ribbon.png" alt="kosovo campaign ribbon" title="kosovo campaign ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="kosovo_campaign_ribbon" name="ribbon"></td>
+<td class="thirdcol">
+<select name="device" class="army">
+<optgroup label="KCM"></optgroup><option value="">DEVICE</option>
+<option value="kosovo_campaign_ribbon-1_bronze_star">1 STAR</option>
+<option value="kosovo_campaign_ribbon-2_bronze_star">2 STAR</option>
+<option value="kosovo_campaign_ribbon-3_bronze_star">3 STAR</option>
+<option value="kosovo_campaign_ribbon-4_bronze_star">4 STAR</option>
+<option value="kosovo_campaign_ribbon-5_bronze_star">5 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Afghanistan Campaign Medal Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/afghanistan_campaign_ribbon.png" alt="afghanistan campaign ribbon" title="afghanistan campaign ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="afghanistan_campaign_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="AFGNCAM"></optgroup><option value="">DEVICE</option>
+<option value="afghanistan_campaign_ribbon-1_bronze_star">1 STAR</option>
+<option value="afghanistan_campaign_ribbon-2_bronze_star">2 STAR</option>
+<option value="afghanistan_campaign_ribbon-3_bronze_star">3 STAR</option>
+<option value="afghanistan_campaign_ribbon-4_bronze_star">4 STAR</option>
+<option value="afghanistan_campaign_ribbon-5_bronze_star">5 STAR</option>
+<option value="afghanistan_campaign_ribbon-arrowhead">ARROW</option>
+<option value="afghanistan_campaign_ribbon-1_bronze_star_arrowhead">1 STAR ARROW</option>
+<option value="afghanistan_campaign_ribbon-2_bronze_star_arrowhead">2 STAR ARROW</option>
+<option value="afghanistan_campaign_ribbon-3_bronze_star_arrowhead">3 STAR ARROW</option>
+<option value="afghanistan_campaign_ribbon-4_bronze_star_arrowhead">4 STAR ARROW</option>
+<option value="afghanistan_campaign_ribbon-5_bronze_star_arrowhead">5 STAR ARROW</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Iraq Campaign Medal Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/iraq_campaign_ribbon.png" alt="iraq campaign ribbon" title="iraq campaign ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="iraq_campaign_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="IRAQCAM"></optgroup><option value="">DEVICE</option>
+<option value="iraq_campaign_ribbon-1_bronze_star">1 STAR</option>
+<option value="iraq_campaign_ribbon-2_bronze_star">2 STAR</option>
+<option value="iraq_campaign_ribbon-3_bronze_star">3 STAR</option>
+<option value="iraq_campaign_ribbon-4_bronze_star">4 STAR</option>
+<option value="iraq_campaign_ribbon-5_bronze_star">5 STAR</option>
+<option value="iraq_campaign_ribbon-arrowhead">ARROW</option>
+<option value="iraq_campaign_ribbon-1_bronze_star_arrowhead">1 STAR ARROW</option>
+<option value="iraq_campaign_ribbon-2_bronze_star_arrowhead">2 STAR ARROW</option>
+<option value="iraq_campaign_ribbon-3_bronze_star_arrowhead">3 STAR ARROW</option>
+<option value="iraq_campaign_ribbon-4_bronze_star_arrowhead">4 STAR ARROW</option>
+<option value="iraq_campaign_ribbon-5_bronze_star_arrowhead">5 STAR ARROW</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close"><a href="/inherent-resolve-campaign-medal/" title="Inherent Resolve Campaign Medal">Inherent Resolve Campaign Medal</a></h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/inherent_resolve_campaign_ribbon.png" alt="Inherent Resolve Campaign" title="Inherent Resolve Campaign"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" data-label-on="ON" data-label-off="OFF" value="inherent_resolve_campaign_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="inherent_resolve_campaign_ribbon-1_bronze_star">1 STAR</option>
+<option value="inherent_resolve_campaign_ribbon-2_bronze_star">2 STAR</option>
+<option value="inherent_resolve_campaign_ribbon-3_bronze_star">3 STAR</option>
+<option value="inherent_resolve_campaign_ribbon-4_bronze_star">4 STAR</option>
+<option value="inherent_resolve_campaign_ribbon-5_bronze_star">5 STAR</option>
+<option value="inherent_resolve_campaign_ribbon-6_bronze_star">6 STAR</option>
+<option value="inherent_resolve_campaign_ribbon-7_bronze_star">7 STAR</option>
+<option value="inherent_resolve_campaign_ribbon-8_bronze_star">8 STAR</option>
+<option value="inherent_resolve_campaign_ribbon-9_bronze_star">9 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Global War on Terrorism Expeditionary Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/global_war_on_terrorism_expeditionary_ribbon.png" alt="global war on terrorism expeditionary ribbon" title="global war on terrorism expeditionary ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="global_war_on_terrorism_expeditionary_ribbon" name="ribbon"></td>
+<td class="thirdcol">
+<select name="device" class="army">
+<optgroup label="GWOTEM"></optgroup><option value="">DEVICE</option>
+<option value="global_war_on_terrorism_expeditionary_ribbon-1_bronze_star">1 STAR</option>
+<option value="global_war_on_terrorism_expeditionary_ribbon-2_bronze_star">2 STAR</option>
+<option value="global_war_on_terrorism_expeditionary_ribbon-3_bronze_star">3 STAR</option>
+<option value="global_war_on_terrorism_expeditionary_ribbon-4_bronze_star">4 STAR</option>
+<option value="global_war_on_terrorism_expeditionary_ribbon-5_bronze_star">5 STAR</option>
+<option value="global_war_on_terrorism_expeditionary_ribbon-arrowhead">ARROW</option>
+<option value="global_war_on_terrorism_expeditionary_ribbon-1_bronze_star_arrowhead">1 STAR ARROW</option>
+<option value="global_war_on_terrorism_expeditionary_ribbon-2_bronze_star_arrowhead">2 STAR ARROW</option>
+<option value="global_war_on_terrorism_expeditionary_ribbon-3_bronze_star_arrowhead">3 STAR ARROW</option>
+<option value="global_war_on_terrorism_expeditionary_ribbon-4_bronze_star_arrowhead">4 STAR ARROW</option>
+<option value="global_war_on_terrorism_expeditionary_ribbon-5_bronze_star_arrowhead">5 STAR ARROW</option>
+</select>
+</td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Global War Terrorism Service Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/global_war_terrorism_service_ribbon.png" alt="global war terrorism service ribbon" title="global war terrorism service ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="global_war_terrorism_service_ribbon" name="ribbon"></td>
+<td class="thirdcol">
+<select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="global_war_terrorism_service_ribbon-1_bronze_star">1 STAR</option>
+<option value="global_war_terrorism_service_ribbon-2_bronze_star">2 STAR</option>
+<option value="global_war_terrorism_service_ribbon-3_bronze_star">3 STAR</option>
+<option value="global_war_terrorism_service_ribbon-4_bronze_star">4 STAR</option>
+<option value="global_war_terrorism_service_ribbon-5_bronze_star">5 STAR</option>
+<option value="global_war_terrorism_service_ribbon-6_bronze_star">6 STAR</option>
+<option value="global_war_terrorism_service_ribbon-7_bronze_star">7 STAR</option>
+<option value="global_war_terrorism_service_ribbon-8_bronze_star">8 STAR</option>
+<option value="global_war_terrorism_service_ribbon-9_bronze_star">9 STAR</option>
+</select>
+</td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Korea Defense Service Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/korea_defense_service_ribbon.png" alt="korea defense service ribbon" title="korea defense service ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="korea_defense_service_ribbon" name="ribbon"></td>
+<td class="thirdcol"></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Armed Forces Service Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/armed_forces_service_ribbon.png" title="armed forces service ribbon.png" alt="armed forces service ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="armed_forces_service_ribbon" name="ribbon"></td>
+<td class="thirdcol">
+<select name="device" class="army">
+<optgroup label="HSM"></optgroup><option value="">DEVICE</option>
+<option value="armed_forces_service_ribbon-1_bronze_star">1 STAR</option>
+<option value="armed_forces_service_ribbon-2_bronze_star">2 STAR</option>
+<option value="armed_forces_service_ribbon-3_bronze_star">3 STAR</option>
+<option value="armed_forces_service_ribbon-4_bronze_star">4 STAR</option>
+<option value="armed_forces_service_ribbon-5_bronze_star">5 STAR</option>
+<option value="armed_forces_service_ribbon-6_bronze_star">6 STAR</option>
+<option value="armed_forces_service_ribbon-7_bronze_star">7 STAR</option>
+<option value="armed_forces_service_ribbon-8_bronze_star">8 STAR</option>
+<option value="armed_forces_service_ribbon-9_bronze_star">9 STAR</option>
+</select>
+</td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Humanitarian Service Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/humanitarian_service_ribbon.png" alt="humanitarian service ribbon" title="humanitarian service ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="humanitarian_service_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="HSM"></optgroup><option value="">DEVICE</option>
+<option value="humanitarian_service_ribbon-1_bronze_star">1 STAR</option>
+<option value="humanitarian_service_ribbon-2_bronze_star">2 STAR</option>
+<option value="humanitarian_service_ribbon-3_bronze_star">3 STAR</option>
+<option value="humanitarian_service_ribbon-4_bronze_star">4 STAR</option>
+<option value="humanitarian_service_ribbon-5_bronze_star">5 STAR</option>
+<option value="humanitarian_service_ribbon-6_bronze_star">6 STAR</option>
+<option value="humanitarian_service_ribbon-7_bronze_star">7 STAR</option>
+<option value="humanitarian_service_ribbon-8_bronze_star">8 STAR</option>
+<option value="humanitarian_service_ribbon-9_bronze_star">9 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Outstanding Volunteer Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/outstanding_volunteer_ribbon.png" alt="outstanding volunteer ribbon" title="outstanding volunteer ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="outstanding_volunteer_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="MOVSM"></optgroup><option value="">DEVICE</option>
+<option value="outstanding_volunteer_ribbon-1_bronze_star">1 STAR</option>
+<option value="outstanding_volunteer_ribbon-2_bronze_star">2 STAR</option>
+<option value="outstanding_volunteer_ribbon-3_bronze_star">3 STAR</option>
+<option value="outstanding_volunteer_ribbon-4_bronze_star">4 STAR</option>
+<option value="outstanding_volunteer_ribbon-5_bronze_star">5 STAR</option>
+<option value="outstanding_volunteer_ribbon-6_bronze_star">6 STAR</option>
+<option value="outstanding_volunteer_ribbon-7_bronze_star">7 STAR</option>
+<option value="outstanding_volunteer_ribbon-8_bronze_star">8 STAR</option>
+<option value="outstanding_volunteer_ribbon-9_bronze_star">9 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+
+<h3 class="open html_close">Armed Forces Reserve Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/armed_forces_reserve_ribbon.png" alt="armed forces reserve ribbon" title="armed forces reserve ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="armed_forces_reserve_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device" class="army">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="armed_forces_reserve_ribbon-bronze_hour_glass">B GLASS</option>
+<option value="armed_forces_reserve_ribbon-silver_hour_glass">S GLASS</option>
+<option value="armed_forces_reserve_ribbon-gold_hour_glass">G HOUR</option>
+<option value="armed_forces_reserve_ribbon-mobilization">M MOBI</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Vietnam Gallantry Cross Ribbon</h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/vietnam_gallantry_cross_ribbon.png" alt="Vietnam Gallantry Cross" title="Vietnam Gallantry Cross"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="vietnam_gallantry_cross_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="vietnam_gallantry_cross_ribbon-palm_device">PALM</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Vietnam Armed Forces Honor 1C Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/vietnam_armed_forces_honor_1c_ribbon.png" alt="Vietnam Armed Forces Honor 1C" title="Vietnam Armed Forces Honor 1C"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="vietnam_armed_forces_honor_1c_ribbon" name="ribbon"></td>
+<td class="thirdcol"></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Vietnam Armed Forces Honor 2C Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/vietnam_armed_forces_honor_2c_ribbon.png" alt="Vietnam Armed Forces Honor 2C" title="Vietnam Armed Forces Honor 2C"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="vietnam_armed_forces_honor_2c_ribbon" name="ribbon"></td>
+<td class="thirdcol"></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Vietnam Civil Action 1C Ribbon</h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/vietnam_civil_action_1c_ribbon.png" alt="Vietnam Civil Action 1C" title="Vietnam Civil Action 1C"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="vietnam_civil_action_1c_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="vietnam_civil_action_1c_ribbon-palm_device">PALM</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Vietnam Civil Action 2C Ribbon</h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/vietnam_civil_action_2c_ribbon.png" alt="Vietnam Civil Action 2C" title="Vietnam Civil Action 2C"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="vietnam_civil_action_2c_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="vietnam_civil_action_2c_ribbon-palm_device">PALM</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Philippines Republic Presidential Unit Citation Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/philippines_republic_presidential_unit_citation_ribbon.png" alt="philippines republic presidential unit citation" title="philippines republic presidential unit citation"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" data-label-on="ON" data-label-off="OFF" value="philippines_republic_presidential_unit_citation_ribbon" name="ribbon"></td>
+<td class="thirdcol"></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Republic of Korea Presidential Unit Citation Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/republic_of_korea_presidential_unit_citation_ribbon.png" alt="republic of korea presidential unit citation" title="republic of korea presidential unit citation"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" data-label-on="ON" data-label-off="OFF" value="republic_of_korea_presidential_unit_citation_ribbon" name="ribbon"></td>
+<td class="thirdcol"></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Republic of Vietnam Presidential Unit Citation Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/republic_of_vietnam_presidential_unit_citation_ribbon.png" alt="republic of vietnam presidential unit citation" title="republic of vietnam presidential unit citation"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" data-label-on="ON" data-label-off="OFF" value="republic_of_vietnam_presidential_unit_citation_ribbon" name="ribbon"></td>
+<td class="thirdcol"></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Republic of Vietnam Gallantry Cross Unit Citation Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/republic_of_vietnam_gallantry_cross_unit_citation_ribbon.png" alt="republic of vietnam gallantry cross unit citation" title="republic of vietnam gallantry cross unit citation"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" data-label-on="ON" data-label-off="OFF" value="republic_of_vietnam_gallantry_cross_unit_citation_ribbon" name="ribbon"></td>
+<td class="thirdcol"></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Republic of Vietnam Civil Action Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/republic_of_vietnam_civil_action_ribbon.png" alt="republic of vietnam civil action" title="republic vietnam civil action ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" data-label-on="ON" data-label-off="OFF" value="republic_of_vietnam_civil_action_ribbon" name="ribbon"></td>
+<td class="thirdcol"></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Philippine Defense Ribbon</h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/philippine_defense_ribbon.png" alt="Philippine Defense" title="Philippine Defense"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="philippine_defense_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="philippine_defense_ribbon-1_bronze_star">1 STAR</option>
+<option value="philippine_defense_ribbon-2_bronze_star">2 STAR</option>
+<option value="philippine_defense_ribbon-3_bronze_star">3 STAR</option>
+<option value="philippine_defense_ribbon-4_bronze_star">4 STAR</option>
+<option value="philippine_defense_ribbon-5_bronze_star">5 STAR</option>
+<option value="philippine_defense_ribbon-6_bronze_star">6 STAR</option>
+<option value="philippine_defense_ribbon-7_bronze_star">7 STAR</option>
+<option value="philippine_defense_ribbon-8_bronze_star">8 STAR</option>
+<option value="philippine_defense_ribbon-9_bronze_star">9 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Philippine Liberation Ribbon</h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/philippine_liberation_ribbon.png" alt="Philippine Liberation" title="Philippine Liberation"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="philippine_liberation_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="philippine_liberation_ribbon-1_bronze_star">1 STAR</option>
+<option value="philippine_liberation_ribbon-2_bronze_star">2 STAR</option>
+<option value="philippine_liberation_ribbon-3_bronze_star">3 STAR</option>
+<option value="philippine_liberation_ribbon-4_bronze_star">4 STAR</option>
+<option value="philippine_liberation_ribbon-5_bronze_star">5 STAR</option>
+<option value="philippine_liberation_ribbon-6_bronze_star">6 STAR</option>
+<option value="philippine_liberation_ribbon-7_bronze_star">7 STAR</option>
+<option value="philippine_liberation_ribbon-8_bronze_star">8 STAR</option>
+<option value="philippine_liberation_ribbon-9_bronze_star">9 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Philippine Independence Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/philippine_independence_ribbon.png" alt="Philippine Independence" title="Philippine Independence"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="philippine_independence_ribbon" name="ribbon"></td>
+<td class="thirdcol"></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Korea Service United Nations Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/korea_service_united_nations_ribbon.png" alt="korea service united nations" title="korea service united nations"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="korea_service_united_nations_ribbon" name="ribbon"></td>
+<td class="thirdcol"></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">United Nations Ribbon</h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/united_nations_ribbon.png" alt="united nations ribbon" title="united nations ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="united_nations_ribbon" name="ribbon"></td>
+<td class="thirdcol">
+<select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="united_nations_ribbon-1_bronze_star">1 STAR</option>
+<option value="united_nations_ribbon-2_bronze_star">2 STAR</option>
+<option value="united_nations_ribbon-3_bronze_star">3 STAR</option>
+<option value="united_nations_ribbon-4_bronze_star">4 STAR</option>
+<option value="united_nations_ribbon-5_bronze_star">5 STAR</option>
+<option value="united_nations_ribbon-6_bronze_star">6 STAR</option>
+<option value="united_nations_ribbon-7_bronze_star">7 STAR</option>
+<option value="united_nations_ribbon-8_bronze_star">8 STAR</option>
+<option value="united_nations_ribbon-9_bronze_star">9 STAR</option>
+</select>
+</td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close"><a href="/nato-medal/" title="Nato Medal">Nato Medal Meritorious Ribbon</a></h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/nato_medal_meritorious_ribbon.png" alt="Nato Medal Meritorious Ribbon" title="Nato Medal Meritorious Ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="nato_medal_meritorious_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="nato_medal_meritorious_ribbon-1_bronze_star">1 STAR</option>
+<option value="nato_medal_meritorious_ribbon-2_bronze_star">2 STAR</option>
+<option value="nato_medal_meritorious_ribbon-3_bronze_star">3 STAR</option>
+<option value="nato_medal_meritorious_ribbon-4_bronze_star">4 STAR</option>
+<option value="nato_medal_meritorious_ribbon-5_bronze_star">5 STAR</option>
+<option value="nato_medal_meritorious_ribbon-6_bronze_star">6 STAR</option>
+<option value="nato_medal_meritorious_ribbon-7_bronze_star">7 STAR</option>
+<option value="nato_medal_meritorious_ribbon-8_bronze_star">8 STAR</option>
+<option value="nato_medal_meritorious_ribbon-9_bronze_star">9 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close"><a href="/nato-medal/" title="Nato Medal">Nato Bosnia Ribbon</a></h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/nato_bosnia_ribbon.png" alt="Nato Bosnia Ribbon" title="Nato Bosnia Ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="nato_bosnia_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="nato_bosnia_ribbon-1_bronze_star">1 STAR</option>
+<option value="nato_bosnia_ribbon-2_bronze_star">2 STAR</option>
+<option value="nato_bosnia_ribbon-3_bronze_star">3 STAR</option>
+<option value="nato_bosnia_ribbon-4_bronze_star">4 STAR</option>
+<option value="nato_bosnia_ribbon-5_bronze_star">5 STAR</option>
+<option value="nato_bosnia_ribbon-6_bronze_star">6 STAR</option>
+<option value="nato_bosnia_ribbon-7_bronze_star">7 STAR</option>
+<option value="nato_bosnia_ribbon-8_bronze_star">8 STAR</option>
+<option value="nato_bosnia_ribbon-9_bronze_star">9 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close"><a href="/nato-medal/" title="Nato Medal">Nato Kosovo Ribbon</a></h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/nato_kosovo_ribbon.png" alt="nato kosovo ribbon" title="nato kosovo ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="nato_kosovo_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="nato_kosovo_ribbon-1_bronze_star">1 STAR</option>
+<option value="nato_kosovo_ribbon-2_bronze_star">2 STAR</option>
+<option value="nato_kosovo_ribbon-3_bronze_star">3 STAR</option>
+<option value="nato_kosovo_ribbon-4_bronze_star">4 STAR</option>
+<option value="nato_kosovo_ribbon-5_bronze_star">5 STAR</option>
+<option value="nato_kosovo_ribbon-6_bronze_star">6 STAR</option>
+<option value="nato_kosovo_ribbon-7_bronze_star">7 STAR</option>
+<option value="nato_kosovo_ribbon-8_bronze_star">8 STAR</option>
+<option value="nato_kosovo_ribbon-9_bronze_star">9 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close"><a href="/nato-medal/" title="Nato Medal">Nato Non Article 5 Ribbon</a></h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/nato_medal_non_article_5_ribbon.png" alt="Nato Non Article 5 Ribbon" title="Nato Non Article 5 Ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="nato_medal_non_article_5_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="nato_medal_non_article_5_ribbon-1_bronze_star">1 STAR</option>
+<option value="nato_medal_non_article_5_ribbon-2_bronze_star">2 STAR</option>
+<option value="nato_medal_non_article_5_ribbon-3_bronze_star">3 STAR</option>
+<option value="nato_medal_non_article_5_ribbon-4_bronze_star">4 STAR</option>
+<option value="nato_medal_non_article_5_ribbon-5_bronze_star">5 STAR</option>
+<option value="nato_medal_non_article_5_ribbon-6_bronze_star">6 STAR</option>
+<option value="nato_medal_non_article_5_ribbon-7_bronze_star">7 STAR</option>
+<option value="nato_medal_non_article_5_ribbon-8_bronze_star">8 STAR</option>
+<option value="nato_medal_non_article_5_ribbon-9_bronze_star">9 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close"><a href="/nato-medal/" title="Nato Medal">Nato ISAF Ribbon</a></h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/nato_isaf_ribbon.png" alt="Nato ISAF Ribbon" title="Nato ISAF Ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="nato_isaf_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="nato_isaf_ribbon-1_bronze_star">1 STAR</option>
+<option value="nato_isaf_ribbon-2_bronze_star">2 STAR</option>
+<option value="nato_isaf_ribbon-3_bronze_star">3 STAR</option>
+<option value="nato_isaf_ribbon-4_bronze_star">4 STAR</option>
+<option value="nato_isaf_ribbon-5_bronze_star">5 STAR</option>
+<option value="nato_isaf_ribbon-6_bronze_star">6 STAR</option>
+<option value="nato_isaf_ribbon-7_bronze_star">7 STAR</option>
+<option value="nato_isaf_ribbon-8_bronze_star">8 STAR</option>
+<option value="nato_isaf_ribbon-9_bronze_star">9 STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close"><a href="/multinational-force-and-observers-medal/" title="Multinational Force and Observers Medal">Multinational Forces and Observers Medal</a></h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/multinational_forces_and_observer_ribbon.png" alt="multinational forces and observer ribbon" title="multinational forces and observer ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="multinational_forces_and_observer_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="multinational_forces_and_observer_ribbon-1_numeral">NO 1</option>
+<option value="multinational_forces_and_observer_ribbon-2_numeral">NO 2</option>
+<option value="multinational_forces_and_observer_ribbon-3_numeral">NO 3</option>
+<option value="multinational_forces_and_observer_ribbon-4_numeral">NO 4</option>
+<option value="multinational_forces_and_observer_ribbon-5_numeral">NO 5</option>
+<option value="multinational_forces_and_observer_ribbon-6_numeral">NO 6</option>
+<option value="multinational_forces_and_observer_ribbon-7_numeral">NO 7</option>
+<option value="multinational_forces_and_observer_ribbon-8_numeral">NO 8</option>
+<option value="multinational_forces_and_observer_ribbon-9_numeral">NO 9</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close"><a href="/inter-american-defense-board-medal/" title="Inter American Defense Board Medal">Inter American Defense Board Medal</a></h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/inter_american_defense_board_ribbon.png" alt="inter american defense board ribbon" title="inter american defense board ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="inter_american_defense_board_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="inter_american_defense_board_ribbon-1_silver_star">1 SILVER STAR</option>
+<option value="inter_american_defense_board_ribbon-1_gold_star">1 GOLD STAR</option>
+<option value="inter_american_defense_board_ribbon-2_gold_star">2 GOLD STAR</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close"><a href="/republic-of-vietnam-campaign-medal/" title="Republic of Vietnam Campaign Medal">Republic of Vietnam Campaign Medal</a></h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/republic_of_vietnam_campaign_ribbon.png" alt="republic of vietnam campaign ribbon" title="republic of vietnam campaign ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="republic_of_vietnam_campaign_ribbon" name="ribbon"></td>
+<td class="thirdcol"></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close"><a href="/kuwait-liberation-medal-saudi-arabia/" title="Kuwait Liberation Medal Saudi Arabia Medal">Kuwait Liberation Saudi Arabia Medal</a></h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/kuwait_liberation_saudi_arabia_ribbon.png" title="kuwait liberation saudi arabia ribbon.png" alt="kuwait liberation saudi arabia ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="kuwait_liberation_saudi_arabia_ribbon" name="ribbon"></td>
+<td class="thirdcol"></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close"><a href="/kuwait-liberation-medal-kuwait/" title="Kuwait Liberation Kuwait Medal">Kuwait Liberation Kuwait Medal</a></h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/kuwait_liberation_kuwait_ribbon.png" title="kuwait liberation kuwait ribbon.png" alt="kuwait liberation kuwait ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="kuwait_liberation_kuwait_ribbon" name="ribbon"></td>
+<td class="thirdcol"></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Republic of Korea Service Medal</h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/republic_of_korea_service_ribbon.png" alt="Republic of Korea Service Medal" title="Republic of Korea Service Medal"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="republic_of_korea_service_ribbon" name="ribbon"></td>
+<td class="thirdcol"></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Navy Rifleman Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/navy_rifleman_ribbon.png" alt="navy rifleman ribbon" title="navy rifleman ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="navy_rifleman_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="navy_rifleman_ribbon">M</option>
+<option value="navy_rifleman_ribbon-sharpshooter">S</option>
+<option value="navy_rifleman_ribbon-expert">E</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Navy Pistol Ribbon</h3>
+<div class="open html_close">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/navy_pistol_ribbon.png" alt="navy pistol ribbon" title="navy pistol ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="navy_pistol_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="navy_pistol_ribbon">M</option>
+<option value="navy_pistol_ribbon-sharpshooter">S</option>
+<option value="navy_pistol_ribbon-expert">E</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Coast Guard Rifle Marksmanship Ribbon</h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/coast_guard_rifle_marksmanship_ribbon.png" alt="Coast Guard Rifle Marksmanship Ribbon" title="Coast Guard Rifle Marksmanship Ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="coast_guard_rifle_marksmanship_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="coast_guard_rifle_marksmanship_ribbon">M</option>
+<option value="coast_guard_rifle_marksmanship_ribbon-cgsharpshooter">S</option>
+<option value="coast_guard_rifle_marksmanship_ribbon-cgexpert">E</option>
+<option value="coast_guard_rifle_marksmanship_ribbon-distinguished_markman">DISTINGUISHED</option>
+<option value="coast_guard_rifle_marksmanship_ribbon-silver_rifle_excellence">SILVER EXPERT</option>
+<option value="coast_guard_rifle_marksmanship_ribbon-bronze_rifle_excellence">BRONZE EXPERT</option>
+</select></td>
+</tr>
+</table>
+</div>
+<h3 class="open html_close">Coast Guard Pistol Marksmanship Ribbon</h3>
+<div class="open html_close c3">
+<table>
+<tr class="on_off">
+<td class="firstcol"><img src="/image/coast_guard_pistol_marksmanship_ribbon.png" alt="Coast Guard Pistol Marksmanship Ribbon" title="Coast Guard Pistol Marksmanship Ribbon"></td>
+<td class="secondcol"><input type="checkbox" class="checkSwitch" value="coast_guard_pistol_marksmanship_ribbon" name="ribbon"></td>
+<td class="thirdcol"><select name="device">
+<optgroup label="DEVICE"></optgroup><option value="">DEVICE</option>
+<option value="coast_guard_pistol_marksmanship_ribbon">M</option>
+<option value="coast_guard_pistol_marksmanship_ribbon-cgsharpshooter">S</option>
+<option value="coast_guard_pistol_marksmanship_ribbon-cgexpert">E</option>
+<option value="coast_guard_pistol_marksmanship_ribbon-distinguished_pistol">DISTINGUISHED</option>
+<option value="coast_guard_pistol_marksmanship_ribbon-silver_pistol_shot">SILVER SHOT</option>
+<option value="coast_guard_pistol_marksmanship_ribbon-bronze_pistol_shot">BRONZE SHOT</option>
+</select></td>
+</tr>
+</table>
+</div>
+
+
+</div>
+<div>
+<input type="hidden" name="checkribbon" value="ribboncheck">
+<input type="hidden" name="title" value="Rack Builder" />
+<input type="hidden" name="csstitle" value="dod" />
+</div>
+<div>
+<input type="submit" value="submit" class="dod" />
+<input type="reset" value="reset" class="dod" /> 
+</div>
+</form>
+<div class="muc dod">
+<div class="navigation">
+
+ <a href="/department_of_defense/" title="Department of Defense Rack Builder Ribbon Checker">
+<img src="/img/department_of_defense_60.png" alt="Navy Sea Cadets" height="60" width="60" class="branch">
+</a>
+ <a href="/rack_builder/" title="Rack Builder for Armed Forces">
+<img src="/img/rack_builder_60.png" alt="Rack Builder Ribbon Checker" title="Rack Builder Ribbon Checker" height="60" width="60" class="branch">
+</a>
+</div>
+</div>
+
+<hr />
+<hr>
+<h2>Military Medal Ribbon Order of Precedence Ribbon Rack Builder Ribbon Checker
+</h2>
+<div id="navigation">
+<a href="http://www.uniformribbons.com/marines/" title="Marine Corps Ribbon Checker"><img src="http://www.uniformribbons.com/img/united_states_marine_corps.svg" alt="Marines Logo Seal" height="60" width="60" class="branch"></a>
+<a href="http://www.uniformribbons.com/navy/" title="Navy Ribbon Checker"><img src="http://www.uniformribbons.com/img/united_states_navy.svg" alt="Navy Logo Seal" height="60" width="60"  class="branch" ></a>
+<a href="http://www.uniformribbons.com/army/" title="Army Rack Builder Ribbon Checker"><img src="http://www.uniformribbons.com/img/united_states_army.svg" alt="Army Logo Seal" height="60" width="60"   class="branch"></a>
+<a href="http://www.uniformribbons.com/air_force/" title="Air Force Rack Builder Ribbon Checker"><img src="http://www.uniformribbons.com/img/united_states_air_force.svg" alt="Air Force Logo Seal" height="60" width="60"  class="branch" ></a>
+<a href="http://www.uniformribbons.com/coast_guard/" title="Coast Guard Ribbon Checker"><img src="http://www.uniformribbons.com/img/united_states_coast_guard.svg" alt="Coast Guard Logo Seal" height="60" width="60" class="branch"></a>
+</div>
+<hr>
+<h2>Department of Defense Ribbon Ribbon Rack Builder and combined Armed Forces
+</h2>
+<div class="navigation">
+<a href="/department_of_defense/" title="Department of Defense Rack Builder Ribbon Checker">
+<img src="/img/department_of_defense_60.png" alt="Navy Sea Cadets" height="60" width="60" class="branch">
+</a>
+ <a href="/rack_builder/" title="Rack Builder for Armed Forces">
+<img src="/img/rack_builder_60.png" alt="Rack Builder Ribbon Checker" title="Rack Builder Ribbon Checker" height="60" width="60" class="branch">
+</a>
+</div>
+<hr>
+<h2>
+Military Auxiliary Ribbon Order of Precedence Rack Builder Ribbon Checker
+</h2>
+<div class="navigation">
+<a href="/sea_cadet/" title="Navy Sea Cadets Ribbon Checker Rack Builder">
+<img src="/img/navy_sea_cadet.png" alt="Navy Sea Cadets" height="60" width="60" class="branch">
+</a>
+<a href="/merchant_marine/" title="Merchant Marine Ribbon Checker Rack Builder">
+<img src="/img/merchant_marine.png" alt="Merchant Marine" title="Merchant Marine" height="60" width="60" class="branch">
+</a>
+<a href="/civil_air_patrol/" title="Civil Air Patrol Rack Builder Ribbon Checker">
+<img src="/img/civil_air_patrol.png" alt="Civil Air Patrol" title="Civil Air Patrol" height="60" width="60"  class="branch" >
+</a>
+<img src="/img/coast_guard_auxiliary.png" alt="Coast Guard Auxiliary" title="Coast Guard Auxiliary" height="60" width="60"  class="branch">
+</div>
+<hr>
+<h2>
+Military JROTC Ribbon Rack Builder Ribbon Checker - Ribbon Order of Precedence
+</h2>
+<div class="navigation">
+<a href="/mcjrotc/" title="Marine Corps JROTC Ribbon Checker">
+<img src="/img/marine_corps_jrotc.png" alt="Marines Junior ROTC Seal" title="Marine JROTC Seal" height="60" width="60" class="branch"></a>
+<a href="/navyjrotc/" title="Navy JROTC Ribbon Checker">
+<img src="/img/navy_jrotc.png" alt="Navy JROTC Seal" height="60" width="60"  class="branch" ></a>
+<a href="/armyjrotc/" title="Army JROTC Ribbon Checker"><img src="/img/army_jrotc.png" alt="Army Junior ROTC Logo Seal" height="60" width="60"  class="branch"></a>
+<a href="/afjrotc/" title="Air Force JROTC Ribbon Checker"> <img src="/img/air_force_jrotc.png" alt="Air Force JROTC Logo Seal" title="Air Force JROTC Checker" height="60" width="60"  class="branch"></a>
+</div>
+<hr>
+<div class="news">
+<ul><li>
+US Marine Corps Medal Ribbon Order of Precedence
+</li><li>
+US Navy Medal Ribbon Order of Precedence
+</li><li>
+US Army Medal Ribbon Order of Precedence
+</li><li>
+US Air Force Medal Ribbon Order of Precedence
+</li><li>
+US Coast Guard Medal Ribbon Order of Precedence
+</li></ul>
+<ul><li>
+United States military ribbon checkers are built based on various information found on internet.  Thus, if there is an erroneous ribbon order or devices, please contact us via facebook.
+</li><li>Semper Fidelis
+</li><li>Thank you for your service.
+</li><li><a href="https://www.facebook.com/uniformribbons" title="uniformribbons.com facebook page"><img src="/images/facebook.png" alt="facebook page" title="facebook page"></a> Post your ribbons and / or contact us via facebook.
+</li></ul>
+</div>
+<div class="footer">
+<a href="/" title="UniformRibbons.com">Home UniformRibbons.com</a></div>
+</div></div>
+</div>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script type="text/javascript" src="/css/checkSwitch.jquery.js"></script>
+        <script>
+            $(function() {
+                $('input[type=checkbox]').checkSwitch();
+            });
+        </script>
+
+</body></html>

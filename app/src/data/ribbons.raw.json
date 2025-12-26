@@ -1,0 +1,4604 @@
+[
+  {
+    "id": "medal_of_honor_ribbon",
+    "name": "Medal of Honor Ribbon",
+    "precedence": 1,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/medal_of_honor_ribbon.png"
+    },
+    "links": {
+      "detailHref": "/medal-of-honor/"
+    }
+  },
+  {
+    "id": "army_distinguished_service_cross_ribbon",
+    "name": "Army Distinguished Service Cross Ribbon",
+    "precedence": 2,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/army_distinguished_service_cross_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "army_distinguished_service_cross_ribbon-1_bronze_oak",
+          "label": "1 OAK"
+        },
+        {
+          "value": "army_distinguished_service_cross_ribbon-2_bronze_oak",
+          "label": "2 OAK"
+        },
+        {
+          "value": "army_distinguished_service_cross_ribbon-3_bronze_oak",
+          "label": "3 OAK"
+        },
+        {
+          "value": "army_distinguished_service_cross_ribbon-4_bronze_oak",
+          "label": "4 OAK"
+        },
+        {
+          "value": "army_distinguished_service_cross_ribbon-5_bronze_oak",
+          "label": "5 OAK"
+        },
+        {
+          "value": "army_distinguished_service_cross_ribbon-6_bronze_oak",
+          "label": "6 OAK"
+        },
+        {
+          "value": "army_distinguished_service_cross_ribbon-7_bronze_oak",
+          "label": "7 OAK"
+        },
+        {
+          "value": "army_distinguished_service_cross_ribbon-8_bronze_oak",
+          "label": "8 OAK"
+        },
+        {
+          "value": "army_distinguished_service_cross_ribbon-9_bronze_oak",
+          "label": "9 OAK"
+        }
+      ]
+    }
+  },
+  {
+    "id": "navy_cross_ribbon",
+    "name": "Navy Cross",
+    "precedence": 3,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/navy_cross_ribbon.png"
+    },
+    "links": {
+      "detailHref": "/navy-cross/"
+    },
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "navy_cross_ribbon-1_gold_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "navy_cross_ribbon-2_gold_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "navy_cross_ribbon-3_gold_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "navy_cross_ribbon-4_gold_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "navy_cross_ribbon-5_gold_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "navy_cross_ribbon-6_gold_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "navy_cross_ribbon-7_gold_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "navy_cross_ribbon-8_gold_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "navy_cross_ribbon-9_gold_star",
+          "label": "9 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "air_force_cross_ribbon",
+    "name": "Air Force Cross Ribbon",
+    "precedence": 4,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/air_force_cross_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "air_force_cross_ribbon-1_bronze_oak",
+          "label": "1 OAK"
+        },
+        {
+          "value": "air_force_cross_ribbon-2_bronze_oak",
+          "label": "2 OAK"
+        },
+        {
+          "value": "air_force_cross_ribbon-3_bronze_oak",
+          "label": "3 OAK"
+        },
+        {
+          "value": "air_force_cross_ribbon-4_bronze_oak",
+          "label": "4 OAK"
+        },
+        {
+          "value": "air_force_cross_ribbon-5_bronze_oak",
+          "label": "5 OAK"
+        },
+        {
+          "value": "air_force_cross_ribbon-6_bronze_oak",
+          "label": "6 OAK"
+        },
+        {
+          "value": "air_force_cross_ribbon-7_bronze_oak",
+          "label": "7 OAK"
+        },
+        {
+          "value": "air_force_cross_ribbon-8_bronze_oak",
+          "label": "8 OAK"
+        },
+        {
+          "value": "air_force_cross_ribbon-9_bronze_oak",
+          "label": "9 OAK"
+        }
+      ]
+    }
+  },
+  {
+    "id": "coast_guard_cross_ribbon",
+    "name": "Coast Guard Cross Ribbon",
+    "precedence": 5,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/coast_guard_cross_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "coast_guard_cross_ribbon-1_gold_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "coast_guard_cross_ribbon-2_gold_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "coast_guard_cross_ribbon-3_gold_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "coast_guard_cross_ribbon-4_gold_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "coast_guard_cross_ribbon-5_gold_star",
+          "label": "5 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "defense_distinguished_service_ribbon",
+    "name": "Defense Distinguished Service Ribbon",
+    "precedence": 6,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/defense_distinguished_service_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "defense_distinguished_service_ribbon-1_bronze_oak",
+          "label": "1 OAK"
+        },
+        {
+          "value": "defense_distinguished_service_ribbon-2_bronze_oak",
+          "label": "2 OAK"
+        },
+        {
+          "value": "defense_distinguished_service_ribbon-3_bronze_oak",
+          "label": "3 OAK"
+        },
+        {
+          "value": "defense_distinguished_service_ribbon-4_bronze_oak",
+          "label": "4 OAK"
+        },
+        {
+          "value": "defense_distinguished_service_ribbon-5_bronze_oak",
+          "label": "5 OAK"
+        },
+        {
+          "value": "defense_distinguished_service_ribbon-6_bronze_oak",
+          "label": "6 OAK"
+        },
+        {
+          "value": "defense_distinguished_service_ribbon-7_bronze_oak",
+          "label": "7 OAK"
+        },
+        {
+          "value": "defense_distinguished_service_ribbon-8_bronze_oak",
+          "label": "8 OAK"
+        },
+        {
+          "value": "defense_distinguished_service_ribbon-9_bronze_oak",
+          "label": "9 OAK"
+        }
+      ]
+    }
+  },
+  {
+    "id": "army_distinguished_service_ribbon",
+    "name": "Army Distinguished Service Ribbon",
+    "precedence": 7,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/army_distinguished_service_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "army_distinguished_service_ribbon-1_bronze_oak",
+          "label": "1 OAK"
+        },
+        {
+          "value": "army_distinguished_service_ribbon-2_bronze_oak",
+          "label": "2 OAK"
+        },
+        {
+          "value": "army_distinguished_service_ribbon-3_bronze_oak",
+          "label": "3 OAK"
+        },
+        {
+          "value": "army_distinguished_service_ribbon-4_bronze_oak",
+          "label": "4 OAK"
+        },
+        {
+          "value": "army_distinguished_service_ribbon-5_bronze_oak",
+          "label": "5 OAK"
+        },
+        {
+          "value": "army_distinguished_service_ribbon-6_bronze_oak",
+          "label": "6 OAK"
+        },
+        {
+          "value": "army_distinguished_service_ribbon-7_bronze_oak",
+          "label": "7 OAK"
+        },
+        {
+          "value": "army_distinguished_service_ribbon-8_bronze_oak",
+          "label": "8 OAK"
+        },
+        {
+          "value": "army_distinguished_service_ribbon-9_bronze_oak",
+          "label": "9 OAK"
+        }
+      ]
+    }
+  },
+  {
+    "id": "navy_distinguished_service_ribbon",
+    "name": "Navy Distinguished Service Ribbon",
+    "precedence": 8,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/navy_distinguished_service_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "navy_distinguished_service_ribbon-1_gold_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "navy_distinguished_service_ribbon-2_gold_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "navy_distinguished_service_ribbon-3_gold_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "navy_distinguished_service_ribbon-4_gold_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "navy_distinguished_service_ribbon-5_gold_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "navy_distinguished_service_ribbon-6_gold_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "navy_distinguished_service_ribbon-7_gold_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "navy_distinguished_service_ribbon-8_gold_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "navy_distinguished_service_ribbon-9_gold_star",
+          "label": "9 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "air_force_distinguished_service_ribbon",
+    "name": "Air Force Distinguished Service Medal Ribbon",
+    "precedence": 9,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/air_force_distinguished_service_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "air_force_distinguished_service_ribbon-1_bronze_oak",
+          "label": "1 OAK"
+        },
+        {
+          "value": "air_force_distinguished_service_ribbon-2_bronze_oak",
+          "label": "2 OAK"
+        },
+        {
+          "value": "air_force_distinguished_service_ribbon-3_bronze_oak",
+          "label": "3 OAK"
+        },
+        {
+          "value": "air_force_distinguished_service_ribbon-4_bronze_oak",
+          "label": "4 OAK"
+        },
+        {
+          "value": "air_force_distinguished_service_ribbon-5_bronze_oak",
+          "label": "5 OAK"
+        },
+        {
+          "value": "air_force_distinguished_service_ribbon-6_bronze_oak",
+          "label": "6 OAK"
+        },
+        {
+          "value": "air_force_distinguished_service_ribbon-7_bronze_oak",
+          "label": "7 OAK"
+        },
+        {
+          "value": "air_force_distinguished_service_ribbon-8_bronze_oak",
+          "label": "8 OAK"
+        },
+        {
+          "value": "air_force_distinguished_service_ribbon-9_bronze_oak",
+          "label": "9 OAK"
+        }
+      ]
+    }
+  },
+  {
+    "id": "coast_guard_distinguished_service_ribbon",
+    "name": "Coast Guard Distinguished Service Medal Ribbon",
+    "precedence": 10,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/coast_guard_distinguished_service_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "coast_guard_distinguished_service_ribbon-1_gold_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "coast_guard_distinguished_service_ribbon-2_gold_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "coast_guard_distinguished_service_ribbon-3_gold_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "coast_guard_distinguished_service_ribbon-4_gold_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "coast_guard_distinguished_service_ribbon-5_gold_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "coast_guard_distinguished_service_ribbon-6_gold_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "coast_guard_distinguished_service_ribbon-7_gold_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "coast_guard_distinguished_service_ribbon-8_gold_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "coast_guard_distinguished_service_ribbon-9_gold_star",
+          "label": "9 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "silver_star_ribbon",
+    "name": "Silver Star Ribbon",
+    "precedence": 11,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/silver_star_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "silver_star_ribbon-1_bronze_oak",
+          "label": "1 OAK"
+        },
+        {
+          "value": "silver_star_ribbon-2_bronze_oak",
+          "label": "2 OAK"
+        },
+        {
+          "value": "silver_star_ribbon-3_bronze_oak",
+          "label": "3 OAK"
+        },
+        {
+          "value": "silver_star_ribbon-4_bronze_oak",
+          "label": "4 OAK"
+        },
+        {
+          "value": "silver_star_ribbon-5_bronze_oak",
+          "label": "5 OAK"
+        },
+        {
+          "value": "silver_star_ribbon-6_bronze_oak",
+          "label": "6 OAK"
+        },
+        {
+          "value": "silver_star_ribbon-7_bronze_oak",
+          "label": "7 OAK"
+        },
+        {
+          "value": "silver_star_ribbon-8_bronze_oak",
+          "label": "8 OAK"
+        },
+        {
+          "value": "silver_star_ribbon-9_bronze_oak",
+          "label": "9 OAK"
+        }
+      ]
+    }
+  },
+  {
+    "id": "defense_superior_service_ribbon",
+    "name": "Defense Superior Service Ribbon",
+    "precedence": 12,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/defense_superior_service_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "defense_superior_service_ribbon-1_bronze_oak",
+          "label": "1 OAK"
+        },
+        {
+          "value": "defense_superior_service_ribbon-2_bronze_oak",
+          "label": "2 OAK"
+        },
+        {
+          "value": "defense_superior_service_ribbon-3_bronze_oak",
+          "label": "3 OAK"
+        },
+        {
+          "value": "defense_superior_service_ribbon-4_bronze_oak",
+          "label": "4 OAK"
+        },
+        {
+          "value": "defense_superior_service_ribbon-5_bronze_oak",
+          "label": "5 OAK"
+        },
+        {
+          "value": "defense_superior_service_ribbon-6_bronze_oak",
+          "label": "6 OAK"
+        },
+        {
+          "value": "defense_superior_service_ribbon-7_bronze_oak",
+          "label": "7 OAK"
+        },
+        {
+          "value": "defense_superior_service_ribbon-8_bronze_oak",
+          "label": "8 OAK"
+        },
+        {
+          "value": "defense_superior_service_ribbon-9_bronze_oak",
+          "label": "9 OAK"
+        }
+      ]
+    }
+  },
+  {
+    "id": "legion_of_merit_ribbon",
+    "name": "Legion of Merit Ribbon",
+    "precedence": 13,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/legion_of_merit_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "legion_of_merit_ribbon-1_bronze_oak",
+          "label": "1 OAK"
+        },
+        {
+          "value": "legion_of_merit_ribbon-2_bronze_oak",
+          "label": "2 OAK"
+        },
+        {
+          "value": "legion_of_merit_ribbon-3_bronze_oak",
+          "label": "3 OAK"
+        },
+        {
+          "value": "legion_of_merit_ribbon-4_bronze_oak",
+          "label": "4 OAK"
+        },
+        {
+          "value": "legion_of_merit_ribbon-5_bronze_oak",
+          "label": "5 OAK"
+        },
+        {
+          "value": "legion_of_merit_ribbon-6_bronze_oak",
+          "label": "6 OAK"
+        },
+        {
+          "value": "legion_of_merit_ribbon-7_bronze_oak",
+          "label": "7 OAK"
+        },
+        {
+          "value": "legion_of_merit_ribbon-8_bronze_oak",
+          "label": "8 OAK"
+        },
+        {
+          "value": "legion_of_merit_ribbon-9_bronze_oak",
+          "label": "9 OAK"
+        },
+        {
+          "value": "legion_of_merit_ribbon-v_device",
+          "label": "COMBAT V"
+        },
+        {
+          "value": "legion_of_merit_ribbon-1_bronze_oak_v_device",
+          "label": "1 OAK V"
+        },
+        {
+          "value": "legion_of_merit_ribbon-2_bronze_oak_v_device",
+          "label": "2 OAK V"
+        },
+        {
+          "value": "legion_of_merit_ribbon-3_bronze_oak_v_device",
+          "label": "3 OAK V"
+        },
+        {
+          "value": "legion_of_merit_ribbon-4_bronze_oak_v_device",
+          "label": "4 OAK V"
+        },
+        {
+          "value": "legion_of_merit_ribbon-5_bronze_oak_v_device",
+          "label": "5 OAK V"
+        },
+        {
+          "value": "legion_of_merit_ribbon-6_bronze_oak_v_device",
+          "label": "6 OAK V"
+        },
+        {
+          "value": "legion_of_merit_ribbon-7_bronze_oak_v_device",
+          "label": "7 OAK V"
+        },
+        {
+          "value": "legion_of_merit_ribbon-8_bronze_oak_v_device",
+          "label": "8 OAK V"
+        },
+        {
+          "value": "legion_of_merit_ribbon-9_bronze_oak_v_device",
+          "label": "9 OAK V"
+        }
+      ]
+    }
+  },
+  {
+    "id": "distinguished_flying_cross_ribbon",
+    "name": "Distinguished Flying Cross Ribbon",
+    "precedence": 14,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/distinguished_flying_cross_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "distinguished_flying_cross_ribbon-1_bronze_oak",
+          "label": "1 OAK"
+        },
+        {
+          "value": "distinguished_flying_cross_ribbon-2_bronze_oak",
+          "label": "2 OAK"
+        },
+        {
+          "value": "distinguished_flying_cross_ribbon-3_bronze_oak",
+          "label": "3 OAK"
+        },
+        {
+          "value": "distinguished_flying_cross_ribbon-4_bronze_oak",
+          "label": "4 OAK"
+        },
+        {
+          "value": "distinguished_flying_cross_ribbon-5_bronze_oak",
+          "label": "5 OAK"
+        },
+        {
+          "value": "distinguished_flying_cross_ribbon-6_bronze_oak",
+          "label": "6 OAK"
+        },
+        {
+          "value": "distinguished_flying_cross_ribbon-7_bronze_oak",
+          "label": "7 OAK"
+        },
+        {
+          "value": "distinguished_flying_cross_ribbon-8_bronze_oak",
+          "label": "8 OAK"
+        },
+        {
+          "value": "distinguished_flying_cross_ribbon-9_bronze_oak",
+          "label": "9 OAK"
+        }
+      ]
+    }
+  },
+  {
+    "id": "soldier_medal_ribbon",
+    "name": "Soldier's Medal Ribbon",
+    "precedence": 15,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/soldier_medal_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "soldier_medal_ribbon-1_bronze_oak",
+          "label": "1 OAK"
+        },
+        {
+          "value": "soldier_medal_ribbon-2_bronze_oak",
+          "label": "2 OAK"
+        },
+        {
+          "value": "soldier_medal_ribbon-3_bronze_oak",
+          "label": "3 OAK"
+        },
+        {
+          "value": "soldier_medal_ribbon-4_bronze_oak",
+          "label": "4 OAK"
+        },
+        {
+          "value": "soldier_medal_ribbon-5_bronze_oak",
+          "label": "5 OAK"
+        },
+        {
+          "value": "soldier_medal_ribbon-6_bronze_oak",
+          "label": "6 OAK"
+        },
+        {
+          "value": "soldier_medal_ribbon-7_bronze_oak",
+          "label": "7 OAK"
+        },
+        {
+          "value": "soldier_medal_ribbon-8_bronze_oak",
+          "label": "8 OAK"
+        },
+        {
+          "value": "soldier_medal_ribbon-9_bronze_oak",
+          "label": "9 OAK"
+        }
+      ]
+    }
+  },
+  {
+    "id": "navy_marine_corps_ribbon",
+    "name": "Navy Marine Corps Medal Ribbon",
+    "precedence": 16,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/navy_marine_corps_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "navy_marine_corps_ribbon-1_gold_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "navy_marine_corps_ribbon-2_gold_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "navy_marine_corps_ribbon-3_gold_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "navy_marine_corps_ribbon-4_gold_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "navy_marine_corps_ribbon-5_gold_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "navy_marine_corps_ribbon-6_gold_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "navy_marine_corps_ribbon-7_gold_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "navy_marine_corps_ribbon-8_gold_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "navy_marine_corps_ribbon-9_gold_star",
+          "label": "9 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "airman_ribbon",
+    "name": "Airman Medal Ribbon",
+    "precedence": 17,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/airman_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "airman_ribbon-1_bronze_oak",
+          "label": "1 OAK"
+        },
+        {
+          "value": "airman_ribbon-2_bronze_oak",
+          "label": "2 OAK"
+        },
+        {
+          "value": "airman_ribbon-3_bronze_oak",
+          "label": "3 OAK"
+        },
+        {
+          "value": "airman_ribbon-4_bronze_oak",
+          "label": "4 OAK"
+        },
+        {
+          "value": "airman_ribbon-5_bronze_oak",
+          "label": "5 OAK"
+        },
+        {
+          "value": "airman_ribbon-6_bronze_oak",
+          "label": "6 OAK"
+        },
+        {
+          "value": "airman_ribbon-7_bronze_oak",
+          "label": "7 OAK"
+        },
+        {
+          "value": "airman_ribbon-8_bronze_oak",
+          "label": "8 OAK"
+        },
+        {
+          "value": "airman_ribbon-9_bronze_oak",
+          "label": "9 OAK"
+        }
+      ]
+    }
+  },
+  {
+    "id": "coast_guard_medal_ribbon",
+    "name": "Coast Guard Medal Ribbon",
+    "precedence": 18,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/coast_guard_medal_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "coast_guard_medal_ribbon-1_gold_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "coast_guard_medal_ribbon-2_gold_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "coast_guard_medal_ribbon-3_gold_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "coast_guard_medal_ribbon-4_gold_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "coast_guard_medal_ribbon-5_gold_star",
+          "label": "5 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bronze_star_ribbon",
+    "name": "Bronze Star Ribbon",
+    "precedence": 19,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/bronze_star_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "bronze_star_ribbon-1_bronze_oak",
+          "label": "1 OAK"
+        },
+        {
+          "value": "bronze_star_ribbon-2_bronze_oak",
+          "label": "2 OAK"
+        },
+        {
+          "value": "bronze_star_ribbon-3_bronze_oak",
+          "label": "3 OAK"
+        },
+        {
+          "value": "bronze_star_ribbon-4_bronze_oak",
+          "label": "4 OAK"
+        },
+        {
+          "value": "bronze_star_ribbon-5_bronze_oak",
+          "label": "5 OAK"
+        },
+        {
+          "value": "bronze_star_ribbon-6_bronze_oak",
+          "label": "6 OAK"
+        },
+        {
+          "value": "bronze_star_ribbon-7_bronze_oak",
+          "label": "7 OAK"
+        },
+        {
+          "value": "bronze_star_ribbon-8_bronze_oak",
+          "label": "8 OAK"
+        },
+        {
+          "value": "bronze_star_ribbon-9_bronze_oak",
+          "label": "9 OAK"
+        },
+        {
+          "value": "bronze_star_ribbon-v_device",
+          "label": "COMBAT V"
+        },
+        {
+          "value": "bronze_star_ribbon-1_bronze_oak_v_device",
+          "label": "1 OAK V"
+        },
+        {
+          "value": "bronze_star_ribbon-2_bronze_oak_v_device",
+          "label": "2 OAK V"
+        },
+        {
+          "value": "bronze_star_ribbon-3_bronze_oak_v_device",
+          "label": "3 OAK V"
+        },
+        {
+          "value": "bronze_star_ribbon-4_bronze_oak_v_device",
+          "label": "4 OAK V"
+        },
+        {
+          "value": "bronze_star_ribbon-5_bronze_oak_v_device",
+          "label": "5 OAK V"
+        },
+        {
+          "value": "bronze_star_ribbon-6_bronze_oak_v_device",
+          "label": "6 OAK V"
+        },
+        {
+          "value": "bronze_star_ribbon-7_bronze_oak_v_device",
+          "label": "7 OAK V"
+        },
+        {
+          "value": "bronze_star_ribbon-8_bronze_oak_v_device",
+          "label": "8 OAK V"
+        }
+      ]
+    }
+  },
+  {
+    "id": "purple_heart_ribbon",
+    "name": "Purple Heart Ribbon",
+    "precedence": 20,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/purple_heart_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "purple_heart_ribbon-1_bronze_oak",
+          "label": "1 OAK"
+        },
+        {
+          "value": "purple_heart_ribbon-2_bronze_oak",
+          "label": "2 OAK"
+        },
+        {
+          "value": "purple_heart_ribbon-3_bronze_oak",
+          "label": "3 OAK"
+        },
+        {
+          "value": "purple_heart_ribbon-4_bronze_oak",
+          "label": "4 OAK"
+        },
+        {
+          "value": "purple_heart_ribbon-5_bronze_oak",
+          "label": "5 OAK"
+        },
+        {
+          "value": "purple_heart_ribbon-6_bronze_oak",
+          "label": "6 OAK"
+        },
+        {
+          "value": "purple_heart_ribbon-7_bronze_oak",
+          "label": "7 OAK"
+        },
+        {
+          "value": "purple_heart_ribbon-8_bronze_oak",
+          "label": "8 OAK"
+        },
+        {
+          "value": "purple_heart_ribbon-9_bronze_oak",
+          "label": "9 OAK"
+        }
+      ]
+    }
+  },
+  {
+    "id": "defense_meritorious_service_ribbon",
+    "name": "Defense Meritorious Service Ribbon",
+    "precedence": 21,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/defense_meritorious_service_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "defense_meritorious_service_ribbon-1_bronze_oak",
+          "label": "1 OAK"
+        },
+        {
+          "value": "defense_meritorious_service_ribbon-2_bronze_oak",
+          "label": "2 OAK"
+        },
+        {
+          "value": "defense_meritorious_service_ribbon-3_bronze_oak",
+          "label": "3 OAK"
+        },
+        {
+          "value": "defense_meritorious_service_ribbon-4_bronze_oak",
+          "label": "4 OAK"
+        },
+        {
+          "value": "defense_meritorious_service_ribbon-5_bronze_oak",
+          "label": "5 OAK"
+        },
+        {
+          "value": "defense_meritorious_service_ribbon-6_bronze_oak",
+          "label": "6 OAK"
+        },
+        {
+          "value": "defense_meritorious_service_ribbon-7_bronze_oak",
+          "label": "7 OAK"
+        },
+        {
+          "value": "defense_meritorious_service_ribbon-8_bronze_oak",
+          "label": "8 OAK"
+        },
+        {
+          "value": "defense_meritorious_service_ribbon-9_bronze_oak",
+          "label": "9 OAK"
+        }
+      ]
+    }
+  },
+  {
+    "id": "meritorious_service_ribbon",
+    "name": "Meritorious Service Ribbon",
+    "precedence": 22,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/meritorious_service_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "meritorious_service_ribbon-1_bronze_oak",
+          "label": "1 OAK"
+        },
+        {
+          "value": "meritorious_service_ribbon-2_bronze_oak",
+          "label": "2 OAK"
+        },
+        {
+          "value": "meritorious_service_ribbon-3_bronze_oak",
+          "label": "3 OAK"
+        },
+        {
+          "value": "meritorious_service_ribbon-4_bronze_oak",
+          "label": "4 OAK"
+        },
+        {
+          "value": "meritorious_service_ribbon-5_bronze_oak",
+          "label": "5 OAK"
+        },
+        {
+          "value": "meritorious_service_ribbon-6_bronze_oak",
+          "label": "6 OAK"
+        },
+        {
+          "value": "meritorious_service_ribbon-7_bronze_oak",
+          "label": "7 OAK"
+        },
+        {
+          "value": "meritorious_service_ribbon-8_bronze_oak",
+          "label": "8 OAK"
+        },
+        {
+          "value": "meritorious_service_ribbon-9_bronze_oak",
+          "label": "9 OAK"
+        }
+      ]
+    }
+  },
+  {
+    "id": "air_medal_ribbon",
+    "name": "Air Medal Ribbon",
+    "precedence": 23,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/air_medal_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "air_medal_ribbon-2_numeral",
+          "label": "2nd"
+        },
+        {
+          "value": "air_medal_ribbon-3_numeral",
+          "label": "3rd"
+        },
+        {
+          "value": "air_medal_ribbon-4_numeral",
+          "label": "4th"
+        },
+        {
+          "value": "air_medal_ribbon-5_numeral",
+          "label": "5th"
+        },
+        {
+          "value": "air_medal_ribbon-6_numeral",
+          "label": "6th"
+        },
+        {
+          "value": "air_medal_ribbon-7_numeral",
+          "label": "7th"
+        },
+        {
+          "value": "air_medal_ribbon-8_numeral",
+          "label": "8th"
+        },
+        {
+          "value": "air_medal_ribbon-9_numeral",
+          "label": "9th"
+        },
+        {
+          "value": "air_medal_ribbon-v_device",
+          "label": "COMBAT V"
+        },
+        {
+          "value": "air_medal_ribbon-2_numeral_v_device",
+          "label": "2nd V"
+        },
+        {
+          "value": "air_medal_ribbon-3_numeral_v_device",
+          "label": "3rd V"
+        },
+        {
+          "value": "air_medal_ribbon-4_numeral_v_device",
+          "label": "4th V"
+        },
+        {
+          "value": "air_medal_ribbon-5_numeral_v_device",
+          "label": "5th V"
+        },
+        {
+          "value": "air_medal_ribbon-6_numeral_v_device",
+          "label": "6th V"
+        },
+        {
+          "value": "air_medal_ribbon-7_numeral_v_device",
+          "label": "7th V"
+        },
+        {
+          "value": "air_medal_ribbon-8_numeral_v_device",
+          "label": "8th V"
+        },
+        {
+          "value": "air_medal_ribbon-9_numeral_v_device",
+          "label": "9th V"
+        }
+      ]
+    }
+  },
+  {
+    "id": "joint_service_commendation_ribbon",
+    "name": "Joint Service Commendation Ribbon",
+    "precedence": 24,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/joint_service_commendation_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "joint_service_commendation_ribbon-1_bronze_oak",
+          "label": "1 OAK"
+        },
+        {
+          "value": "joint_service_commendation_ribbon-2_bronze_oak",
+          "label": "2 OAK"
+        },
+        {
+          "value": "joint_service_commendation_ribbon-3_bronze_oak",
+          "label": "3 OAK"
+        },
+        {
+          "value": "joint_service_commendation_ribbon-4_bronze_oak",
+          "label": "4 OAK"
+        },
+        {
+          "value": "joint_service_commendation_ribbon-5_bronze_oak",
+          "label": "5 OAK"
+        },
+        {
+          "value": "joint_service_commendation_ribbon-6_bronze_oak",
+          "label": "6 OAK"
+        },
+        {
+          "value": "joint_service_commendation_ribbon-7_bronze_oak",
+          "label": "7 OAK"
+        },
+        {
+          "value": "joint_service_commendation_ribbon-8_bronze_oak",
+          "label": "8 OAK"
+        },
+        {
+          "value": "joint_service_commendation_ribbon-9_bronze_oak",
+          "label": "9 OAK"
+        },
+        {
+          "value": "joint_service_commendation_ribbon-v_device",
+          "label": "COMBAT V"
+        },
+        {
+          "value": "joint_service_commendation_ribbon-1_bronze_oak_v_device",
+          "label": "1 OAK V"
+        },
+        {
+          "value": "joint_service_commendation_ribbon-2_bronze_oak_v_device",
+          "label": "2 OAK V"
+        },
+        {
+          "value": "joint_service_commendation_ribbon-3_bronze_oak_v_device",
+          "label": "3 OAK V"
+        },
+        {
+          "value": "joint_service_commendation_ribbon-4_bronze_oak_v_device",
+          "label": "4 OAK V"
+        },
+        {
+          "value": "joint_service_commendation_ribbon-5_bronze_oak_v_device",
+          "label": "5 OAK V"
+        },
+        {
+          "value": "joint_service_commendation_ribbon-6_bronze_oak_v_device",
+          "label": "6 OAK V"
+        },
+        {
+          "value": "joint_service_commendation_ribbon-7_bronze_oak_v_device",
+          "label": "7 OAK V"
+        },
+        {
+          "value": "joint_service_commendation_ribbon-8_bronze_oak_v_device",
+          "label": "8 OAK V"
+        },
+        {
+          "value": "joint_service_commendation_ribbon-9_bronze_oak_v_device",
+          "label": "9 OAK V"
+        }
+      ]
+    }
+  },
+  {
+    "id": "army_commendation_ribbon",
+    "name": "Army Commendation Ribbon",
+    "precedence": 25,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/army_commendation_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "army_commendation_ribbon-1_bronze_oak",
+          "label": "1 OAK"
+        },
+        {
+          "value": "army_commendation_ribbon-2_bronze_oak",
+          "label": "2 OAK"
+        },
+        {
+          "value": "army_commendation_ribbon-3_bronze_oak",
+          "label": "3 OAK"
+        },
+        {
+          "value": "army_commendation_ribbon-4_bronze_oak",
+          "label": "4 OAK"
+        },
+        {
+          "value": "army_commendation_ribbon-5_bronze_oak",
+          "label": "5 OAK"
+        },
+        {
+          "value": "army_commendation_ribbon-6_bronze_oak",
+          "label": "6 OAK"
+        },
+        {
+          "value": "army_commendation_ribbon-7_bronze_oak",
+          "label": "7 OAK"
+        },
+        {
+          "value": "army_commendation_ribbon-8_bronze_oak",
+          "label": "8 OAK"
+        },
+        {
+          "value": "army_commendation_ribbon-9_bronze_oak",
+          "label": "9 OAK"
+        },
+        {
+          "value": "army_commendation_ribbon-v_device",
+          "label": "COMBAT V"
+        },
+        {
+          "value": "army_commendation_ribbon-1_bronze_oak_v_device",
+          "label": "1 OAK V"
+        },
+        {
+          "value": "army_commendation_ribbon-2_bronze_oak_v_device",
+          "label": "2 OAK V"
+        },
+        {
+          "value": "army_commendation_ribbon-3_bronze_oak_v_device",
+          "label": "3 OAK V"
+        },
+        {
+          "value": "army_commendation_ribbon-4_bronze_oak_v_device",
+          "label": "4 OAK V"
+        },
+        {
+          "value": "army_commendation_ribbon-5_bronze_oak_v_device",
+          "label": "5 OAK V"
+        },
+        {
+          "value": "army_commendation_ribbon-6_bronze_oak_v_device",
+          "label": "6 OAK V"
+        },
+        {
+          "value": "army_commendation_ribbon-7_bronze_oak_v_device",
+          "label": "7 OAK V"
+        },
+        {
+          "value": "army_commendation_ribbon-8_bronze_oak_v_device",
+          "label": "8 OAK V"
+        },
+        {
+          "value": "army_commendation_ribbon-9_bronze_oak_v_device",
+          "label": "9 OAK V"
+        }
+      ]
+    }
+  },
+  {
+    "id": "navy_marine_corps_commendation_ribbon",
+    "name": "Navy Marine Corps Commendation Ribbon",
+    "precedence": 26,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/navy_marine_corps_commendation_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "navy_marine_corps_commendation_ribbon-1_gold_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "navy_marine_corps_commendation_ribbon-2_gold_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "navy_marine_corps_commendation_ribbon-3_gold_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "navy_marine_corps_commendation_ribbon-4_gold_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "navy_marine_corps_commendation_ribbon-5_gold_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "navy_marine_corps_commendation_ribbon-6_gold_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "navy_marine_corps_commendation_ribbon-7_gold_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "navy_marine_corps_commendation_ribbon-8_gold_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "navy_marine_corps_commendation_ribbon-9_gold_star",
+          "label": "9 STAR"
+        },
+        {
+          "value": "navy_marine_corps_commendation_ribbon-device_v",
+          "label": "COMBAT V"
+        },
+        {
+          "value": "navy_marine_corps_commendation_ribbon-1_gold_star_device_v",
+          "label": "1 STAR V"
+        },
+        {
+          "value": "navy_marine_corps_commendation_ribbon-2_gold_star_device_v",
+          "label": "2 STAR V"
+        },
+        {
+          "value": "navy_marine_corps_commendation_ribbon-3_gold_star_device_v",
+          "label": "3 STAR V"
+        },
+        {
+          "value": "navy_marine_corps_commendation_ribbon-4_gold_star_device_v",
+          "label": "4 STAR V"
+        },
+        {
+          "value": "navy_marine_corps_commendation_ribbon-5_gold_star_device_v",
+          "label": "5 STAR V"
+        },
+        {
+          "value": "navy_marine_corps_commendation_ribbon-6_gold_star_device_v",
+          "label": "6 STAR V"
+        },
+        {
+          "value": "navy_marine_corps_commendation_ribbon-7_gold_star_device_v",
+          "label": "7 STAR V"
+        },
+        {
+          "value": "navy_marine_corps_commendation_ribbon-8_gold_star_device_v",
+          "label": "8 STAR V"
+        },
+        {
+          "value": "navy_marine_corps_commendation_ribbon-9_gold_star_device_v",
+          "label": "9 STAR V"
+        }
+      ]
+    }
+  },
+  {
+    "id": "air_force_commendation_ribbon",
+    "name": "Air Force Commendation Medal Ribbon",
+    "precedence": 27,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/air_force_commendation_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "air_force_commendation_ribbon-1_bronze_oak",
+          "label": "1 OAK"
+        },
+        {
+          "value": "air_force_commendation_ribbon-2_bronze_oak",
+          "label": "2 OAK"
+        },
+        {
+          "value": "air_force_commendation_ribbon-3_bronze_oak",
+          "label": "3 OAK"
+        },
+        {
+          "value": "air_force_commendation_ribbon-4_bronze_oak",
+          "label": "4 OAK"
+        },
+        {
+          "value": "air_force_commendation_ribbon-5_bronze_oak",
+          "label": "5 OAK"
+        },
+        {
+          "value": "air_force_commendation_ribbon-6_bronze_oak",
+          "label": "6 OAK"
+        },
+        {
+          "value": "air_force_commendation_ribbon-7_bronze_oak",
+          "label": "7 OAK"
+        },
+        {
+          "value": "air_force_commendation_ribbon-8_bronze_oak",
+          "label": "8 OAK"
+        },
+        {
+          "value": "air_force_commendation_ribbon-9_bronze_oak",
+          "label": "9 OAK"
+        },
+        {
+          "value": "air_force_commendation_ribbon-v_device",
+          "label": "V"
+        },
+        {
+          "value": "air_force_commendation_ribbon-1_bronze_oak_v_device",
+          "label": "1 OAK V"
+        },
+        {
+          "value": "air_force_commendation_ribbon-2_bronze_oak_v_device",
+          "label": "2 OAK V"
+        },
+        {
+          "value": "air_force_commendation_ribbon-3_bronze_oak_v_device",
+          "label": "3 OAK V"
+        },
+        {
+          "value": "air_force_commendation_ribbon-4_bronze_oak_v_device",
+          "label": "4 OAK V"
+        },
+        {
+          "value": "air_force_commendation_ribbon-5_bronze_oak_v_device",
+          "label": "5 OAK V"
+        },
+        {
+          "value": "air_force_commendation_ribbon-6_bronze_oak_v_device",
+          "label": "6 OAK V"
+        },
+        {
+          "value": "air_force_commendation_ribbon-7_bronze_oak_v_device",
+          "label": "7 OAK V"
+        },
+        {
+          "value": "air_force_commendation_ribbon-8_bronze_oak_v_device",
+          "label": "8 OAK V"
+        },
+        {
+          "value": "air_force_commendation_ribbon-9_bronze_oak_v_device",
+          "label": "9 OAK V"
+        }
+      ]
+    }
+  },
+  {
+    "id": "coast_guard_commendation_ribbon",
+    "name": "Coast Guard Commendation Medal Ribbon",
+    "precedence": 28,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/coast_guard_commendation_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "coast_guard_commendation_ribbon-1_gold_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "coast_guard_commendation_ribbon-2_gold_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "coast_guard_commendation_ribbon-3_gold_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "coast_guard_commendation_ribbon-4_gold_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "coast_guard_commendation_ribbon-5_gold_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "coast_guard_commendation_ribbon-device_v",
+          "label": "V"
+        }
+      ]
+    }
+  },
+  {
+    "id": "joint_service_achievement_ribbon",
+    "name": "Joint Service Achievement Ribbon",
+    "precedence": 29,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/joint_service_achievement_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "joint_service_achievement_ribbon-1_bronze_oak",
+          "label": "1 OAK"
+        },
+        {
+          "value": "joint_service_achievement_ribbon-2_bronze_oak",
+          "label": "2 OAK"
+        },
+        {
+          "value": "joint_service_achievement_ribbon-3_bronze_oak",
+          "label": "3 OAK"
+        },
+        {
+          "value": "joint_service_achievement_ribbon-4_bronze_oak",
+          "label": "4 OAK"
+        },
+        {
+          "value": "joint_service_achievement_ribbon-5_bronze_oak",
+          "label": "5 OAK"
+        },
+        {
+          "value": "joint_service_achievement_ribbon-6_bronze_oak",
+          "label": "6 OAK"
+        },
+        {
+          "value": "joint_service_achievement_ribbon-7_bronze_oak",
+          "label": "7 OAK"
+        },
+        {
+          "value": "joint_service_achievement_ribbon-8_bronze_oak",
+          "label": "8 OAK"
+        },
+        {
+          "value": "joint_service_achievement_ribbon-9_bronze_oak",
+          "label": "9 OAK"
+        }
+      ]
+    }
+  },
+  {
+    "id": "army_achievement_ribbon",
+    "name": "Army Achievement Ribbon",
+    "precedence": 30,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/army_achievement_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "army_achievement_ribbon-1_bronze_oak",
+          "label": "1 OAK"
+        },
+        {
+          "value": "army_achievement_ribbon-2_bronze_oak",
+          "label": "2 OAK"
+        },
+        {
+          "value": "army_achievement_ribbon-3_bronze_oak",
+          "label": "3 OAK"
+        },
+        {
+          "value": "army_achievement_ribbon-4_bronze_oak",
+          "label": "4 OAK"
+        },
+        {
+          "value": "army_achievement_ribbon-5_bronze_oak",
+          "label": "5 OAK"
+        },
+        {
+          "value": "army_achievement_ribbon-6_bronze_oak",
+          "label": "6 OAK"
+        },
+        {
+          "value": "army_achievement_ribbon-7_bronze_oak",
+          "label": "7 OAK"
+        },
+        {
+          "value": "army_achievement_ribbon-8_bronze_oak",
+          "label": "8 OAK"
+        },
+        {
+          "value": "army_achievement_ribbon-9_bronze_oak",
+          "label": "9 OAK"
+        }
+      ]
+    }
+  },
+  {
+    "id": "navy_marine_corps_achievement_ribbon",
+    "name": "Navy Marine Corps Achievement Ribbon",
+    "precedence": 31,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/navy_marine_corps_achievement_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "navy_marine_corps_achievement_ribbon-1_gold_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "navy_marine_corps_achievement_ribbon-2_gold_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "navy_marine_corps_achievement_ribbon-3_gold_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "navy_marine_corps_achievement_ribbon-4_gold_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "navy_marine_corps_achievement_ribbon-5_gold_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "navy_marine_corps_achievement_ribbon-6_gold_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "navy_marine_corps_achievement_ribbon-7_gold_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "navy_marine_corps_achievement_ribbon-8_gold_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "navy_marine_corps_achievement_ribbon-9_gold_star",
+          "label": "9 STAR"
+        },
+        {
+          "value": "navy_marine_corps_achievement_ribbon-device_v",
+          "label": "COMBAT V"
+        },
+        {
+          "value": "navy_marine_corps_achievement_ribbon-1_gold_star_device_v",
+          "label": "1 STAR V"
+        },
+        {
+          "value": "navy_marine_corps_achievement_ribbon-2_gold_star_device_v",
+          "label": "2 STAR V"
+        },
+        {
+          "value": "navy_marine_corps_achievement_ribbon-3_gold_star_device_v",
+          "label": "3 STAR V"
+        },
+        {
+          "value": "navy_marine_corps_achievement_ribbon-4_gold_star_device_v",
+          "label": "4 STAR V"
+        },
+        {
+          "value": "navy_marine_corps_achievement_ribbon-5_gold_star_device_v",
+          "label": "5 STAR V"
+        },
+        {
+          "value": "navy_marine_corps_achievement_ribbon-6_gold_star_device_v",
+          "label": "6 STAR V"
+        },
+        {
+          "value": "navy_marine_corps_achievement_ribbon-7_gold_star_device_v",
+          "label": "7 STAR V"
+        },
+        {
+          "value": "navy_marine_corps_achievement_ribbon-8_gold_star_device_v",
+          "label": "8 STAR V"
+        },
+        {
+          "value": "navy_marine_corps_achievement_ribbon-9_gold_star_device_v",
+          "label": "9 STAR V"
+        }
+      ]
+    }
+  },
+  {
+    "id": "air_force_achievement_ribbon",
+    "name": "Air Force Achievement Medal Ribbon",
+    "precedence": 32,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/air_force_achievement_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "air_force_achievement_ribbon-1_bronze_oak",
+          "label": "1 OAK"
+        },
+        {
+          "value": "air_force_achievement_ribbon-2_bronze_oak",
+          "label": "2 OAK"
+        },
+        {
+          "value": "air_force_achievement_ribbon-3_bronze_oak",
+          "label": "3 OAK"
+        },
+        {
+          "value": "air_force_achievement_ribbon-4_bronze_oak",
+          "label": "4 OAK"
+        },
+        {
+          "value": "air_force_achievement_ribbon-5_bronze_oak",
+          "label": "5 OAK"
+        },
+        {
+          "value": "air_force_achievement_ribbon-6_bronze_oak",
+          "label": "6 OAK"
+        },
+        {
+          "value": "air_force_achievement_ribbon-7_bronze_oak",
+          "label": "7 OAK"
+        },
+        {
+          "value": "air_force_achievement_ribbon-8_bronze_oak",
+          "label": "8 OAK"
+        },
+        {
+          "value": "air_force_achievement_ribbon-9_bronze_oak",
+          "label": "9 OAK"
+        },
+        {
+          "value": "air_force_achievement_ribbon-v_device",
+          "label": "V"
+        },
+        {
+          "value": "air_force_achievement_ribbon-1_bronze_oak_v_device",
+          "label": "1 OAK V"
+        },
+        {
+          "value": "air_force_achievement_ribbon-2_bronze_oak_v_device",
+          "label": "2 OAK V"
+        },
+        {
+          "value": "air_force_achievement_ribbon-3_bronze_oak_v_device",
+          "label": "3 OAK V"
+        },
+        {
+          "value": "air_force_achievement_ribbon-4_bronze_oak_v_device",
+          "label": "4 OAK V"
+        },
+        {
+          "value": "air_force_achievement_ribbon-5_bronze_oak_v_device",
+          "label": "5 OAK V"
+        },
+        {
+          "value": "air_force_achievement_ribbon-6_bronze_oak_v_device",
+          "label": "6 OAK V"
+        },
+        {
+          "value": "air_force_achievement_ribbon-7_bronze_oak_v_device",
+          "label": "7 OAK V"
+        },
+        {
+          "value": "air_force_achievement_ribbon-8_bronze_oak_v_device",
+          "label": "8 OAK V"
+        },
+        {
+          "value": "air_force_achievement_ribbon-9_bronze_oak_v_device",
+          "label": "9 OAK V"
+        }
+      ]
+    }
+  },
+  {
+    "id": "coast_guard_achievement_ribbon",
+    "name": "Coast Guard Achievement Medal Ribbon",
+    "precedence": 33,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/coast_guard_achievement_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "coast_guard_achievement_ribbon-1_gold_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "coast_guard_achievement_ribbon-2_gold_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "coast_guard_achievement_ribbon-3_gold_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "coast_guard_achievement_ribbon-4_gold_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "coast_guard_achievement_ribbon-5_gold_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "coast_guard_achievement_ribbon-6_gold_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "coast_guard_achievement_ribbon-7_gold_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "coast_guard_achievement_ribbon-8_gold_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "coast_guard_achievement_ribbon-9_gold_star",
+          "label": "9 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "navy_marine_corps_combat_action_ribbon",
+    "name": "Navy Marine Corps Combat Action Ribbon",
+    "precedence": 34,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/navy_marine_corps_combat_action_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "navy_marine_corps_combat_action_ribbon-1_gold_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "navy_marine_corps_combat_action_ribbon-2_gold_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "navy_marine_corps_combat_action_ribbon-3_gold_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "navy_marine_corps_combat_action_ribbon-4_gold_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "navy_marine_corps_combat_action_ribbon-5_gold_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "navy_marine_corps_combat_action_ribbon-6_gold_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "navy_marine_corps_combat_action_ribbon-7_gold_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "navy_marine_corps_combat_action_ribbon-8_gold_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "navy_marine_corps_combat_action_ribbon-9_gold_star",
+          "label": "9 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "prisoner_of_war_ribbon",
+    "name": "Prisoner of War Ribbon",
+    "precedence": 35,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/prisoner_of_war_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "prisoner_of_war_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "prisoner_of_war_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "prisoner_of_war_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "prisoner_of_war_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "prisoner_of_war_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "army_good_conduct_ribbon",
+    "name": "Army Good Conduct Ribbon",
+    "precedence": 36,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/army_good_conduct_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "army_good_conduct_ribbon-2_bronze_knots",
+          "label": "2nd"
+        },
+        {
+          "value": "army_good_conduct_ribbon-3_bronze_knots",
+          "label": "3rd"
+        },
+        {
+          "value": "army_good_conduct_ribbon-4_bronze_knots",
+          "label": "4th"
+        },
+        {
+          "value": "army_good_conduct_ribbon-5_bronze_knots",
+          "label": "5th"
+        },
+        {
+          "value": "army_good_conduct_ribbon-1_silver_knots",
+          "label": "6th"
+        },
+        {
+          "value": "army_good_conduct_ribbon-2_silver_knots",
+          "label": "7th"
+        },
+        {
+          "value": "army_good_conduct_ribbon-3_silver_knots",
+          "label": "8th"
+        },
+        {
+          "value": "army_good_conduct_ribbon-4_silver_knots",
+          "label": "9th"
+        },
+        {
+          "value": "army_good_conduct_ribbon-5_silver_knots",
+          "label": "10th"
+        },
+        {
+          "value": "army_good_conduct_ribbon-1_gold_knots",
+          "label": "11th"
+        },
+        {
+          "value": "army_good_conduct_ribbon-2_gold_knots",
+          "label": "12th"
+        },
+        {
+          "value": "army_good_conduct_ribbon-3_gold_knots",
+          "label": "13th"
+        },
+        {
+          "value": "army_good_conduct_ribbon-4_gold_knots",
+          "label": "14th"
+        },
+        {
+          "value": "army_good_conduct_ribbon-5_gold_knots",
+          "label": "15th"
+        }
+      ]
+    }
+  },
+  {
+    "id": "navy_good_conduct_ribbon",
+    "name": "Navy Good Conduct Ribbon",
+    "precedence": 37,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/navy_good_conduct_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "navy_good_conduct_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "navy_good_conduct_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "navy_good_conduct_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "navy_good_conduct_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "navy_good_conduct_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "navy_good_conduct_ribbon-6_bronze_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "navy_good_conduct_ribbon-7_bronze_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "navy_good_conduct_ribbon-8_bronze_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "navy_good_conduct_ribbon-9_bronze_star",
+          "label": "9 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "air_force_good_conduct_ribbon",
+    "name": "Air Force Good Conduct Medal Ribbon",
+    "precedence": 38,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/air_force_good_conduct_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "air_force_good_conduct_ribbon-1_bronze_oak",
+          "label": "1 OAK"
+        },
+        {
+          "value": "air_force_good_conduct_ribbon-2_bronze_oak",
+          "label": "2 OAK"
+        },
+        {
+          "value": "air_force_good_conduct_ribbon-3_bronze_oak",
+          "label": "3 OAK"
+        },
+        {
+          "value": "air_force_good_conduct_ribbon-4_bronze_oak",
+          "label": "4 OAK"
+        },
+        {
+          "value": "air_force_good_conduct_ribbon-5_bronze_oak",
+          "label": "5 OAK"
+        },
+        {
+          "value": "air_force_good_conduct_ribbon-6_bronze_oak",
+          "label": "6 OAK"
+        },
+        {
+          "value": "air_force_good_conduct_ribbon-7_bronze_oak",
+          "label": "7 OAK"
+        },
+        {
+          "value": "air_force_good_conduct_ribbon-8_bronze_oak",
+          "label": "8 OAK"
+        },
+        {
+          "value": "air_force_good_conduct_ribbon-9_bronze_oak",
+          "label": "9 OAK"
+        }
+      ]
+    }
+  },
+  {
+    "id": "coast_guard_good_conduct_ribbon",
+    "name": "Coast Guard Good Conduct Medal Ribbon",
+    "precedence": 39,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/coast_guard_good_conduct_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "coast_guard_good_conduct_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "coast_guard_good_conduct_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "coast_guard_good_conduct_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "coast_guard_good_conduct_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "coast_guard_good_conduct_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "coast_guard_good_conduct_ribbon-6_bronze_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "coast_guard_good_conduct_ribbon-7_bronze_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "coast_guard_good_conduct_ribbon-8_bronze_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "coast_guard_good_conduct_ribbon-9_bronze_star",
+          "label": "9 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "army_reserve_components_achievement_ribbon",
+    "name": "Army Reserve Components Achievement Ribbon",
+    "precedence": 40,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/army_reserve_components_achievement_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "army_reserve_components_achievement_ribbon-1_bronze_oak",
+          "label": "1 OAK"
+        },
+        {
+          "value": "army_reserve_components_achievement_ribbon-2_bronze_oak",
+          "label": "2 OAK"
+        },
+        {
+          "value": "army_reserve_components_achievement_ribbon-3_bronze_oak",
+          "label": "3 OAK"
+        },
+        {
+          "value": "army_reserve_components_achievement_ribbon-4_bronze_oak",
+          "label": "4 OAK"
+        },
+        {
+          "value": "army_reserve_components_achievement_ribbon-5_bronze_oak",
+          "label": "5 OAK"
+        },
+        {
+          "value": "army_reserve_components_achievement_ribbon-6_bronze_oak",
+          "label": "6 OAK"
+        },
+        {
+          "value": "army_reserve_components_achievement_ribbon-7_bronze_oak",
+          "label": "7 OAK"
+        },
+        {
+          "value": "army_reserve_components_achievement_ribbon-8_bronze_oak",
+          "label": "8 OAK"
+        },
+        {
+          "value": "army_reserve_components_achievement_ribbon-9_bronze_oak",
+          "label": "9 OAK"
+        }
+      ]
+    }
+  },
+  {
+    "id": "naval_reserve_meritorious_service_ribbon",
+    "name": "Naval Reserve Meritorious Service Ribbon",
+    "precedence": 41,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/naval_reserve_meritorious_service_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "naval_reserve_meritorious_service_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "naval_reserve_meritorious_service_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "naval_reserve_meritorious_service_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "naval_reserve_meritorious_service_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "naval_reserve_meritorious_service_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "naval_reserve_meritorious_service_ribbon-6_bronze_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "naval_reserve_meritorious_service_ribbon-7_bronze_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "naval_reserve_meritorious_service_ribbon-8_bronze_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "naval_reserve_meritorious_service_ribbon-9_bronze_star",
+          "label": "9 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "selected_marine_corps_reserve_ribbon",
+    "name": "Selected Marine Corps Reserve Ribbon",
+    "precedence": 42,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/selected_marine_corps_reserve_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "selected_marine_corps_reserve_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "selected_marine_corps_reserve_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "selected_marine_corps_reserve_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "selected_marine_corps_reserve_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "selected_marine_corps_reserve_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "selected_marine_corps_reserve_ribbon-6_bronze_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "selected_marine_corps_reserve_ribbon-7_bronze_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "selected_marine_corps_reserve_ribbon-8_bronze_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "selected_marine_corps_reserve_ribbon-9_bronze_star",
+          "label": "9 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "air_reserve_meritorious_service_ribbon",
+    "name": "Air Reserve Meritorious Service Medal Ribbon",
+    "precedence": 43,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/air_reserve_meritorious_service_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "air_reserve_meritorious_service_ribbon-1_bronze_oak",
+          "label": "1 OAK"
+        },
+        {
+          "value": "air_reserve_meritorious_service_ribbon-2_bronze_oak",
+          "label": "2 OAK"
+        },
+        {
+          "value": "air_reserve_meritorious_service_ribbon-3_bronze_oak",
+          "label": "3 OAK"
+        },
+        {
+          "value": "air_reserve_meritorious_service_ribbon-4_bronze_oak",
+          "label": "4 OAK"
+        },
+        {
+          "value": "air_reserve_meritorious_service_ribbon-5_bronze_oak",
+          "label": "5 OAK"
+        },
+        {
+          "value": "air_reserve_meritorious_service_ribbon-6_bronze_oak",
+          "label": "6 OAK"
+        },
+        {
+          "value": "air_reserve_meritorious_service_ribbon-7_bronze_oak",
+          "label": "7 OAK"
+        },
+        {
+          "value": "air_reserve_meritorious_service_ribbon-8_bronze_oak",
+          "label": "8 OAK"
+        },
+        {
+          "value": "air_reserve_meritorious_service_ribbon-9_bronze_oak",
+          "label": "9 OAK"
+        }
+      ]
+    }
+  },
+  {
+    "id": "coast_guard_reserve_good_conduct_ribbon",
+    "name": "Coast Guard Reserve Good Conduct Medal Ribbon",
+    "precedence": 44,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/coast_guard_reserve_good_conduct_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "coast_guard_reserve_good_conduct_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "coast_guard_reserve_good_conduct_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "coast_guard_reserve_good_conduct_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "coast_guard_reserve_good_conduct_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "coast_guard_reserve_good_conduct_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "navy_expeditionary_ribbon",
+    "name": "Navy Expeditionary Ribbon",
+    "precedence": 45,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/navy_expeditionary_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "navy_expeditionary_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "navy_expeditionary_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "navy_expeditionary_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "navy_expeditionary_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "navy_expeditionary_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "navy_expeditionary_ribbon-6_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "navy_expeditionary_ribbon-7_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "navy_expeditionary_ribbon-8_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "navy_expeditionary_ribbon-9_bronze_star",
+          "label": "5 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "marine_corps_expeditionary_ribbon",
+    "name": "Marine Corps Expeditionary Ribbon",
+    "precedence": 46,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/marine_corps_expeditionary_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "marine_corps_expeditionary_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "marine_corps_expeditionary_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "marine_corps_expeditionary_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "marine_corps_expeditionary_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "marine_corps_expeditionary_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "army_occupation_ribbon",
+    "name": "Army Occupation Ribbon",
+    "precedence": 47,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/army_occupation_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "army_occupation_ribbon-plane",
+          "label": "plane"
+        }
+      ]
+    }
+  },
+  {
+    "id": "navy_occupation_ribbon",
+    "name": "Navy Occupation Ribbon",
+    "precedence": 48,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/navy_occupation_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "navy_occupation_ribbon-plane",
+          "label": "plane"
+        }
+      ]
+    }
+  },
+  {
+    "id": "national_defense_service_medal_ribbon",
+    "name": "National Defense Service Ribbon",
+    "precedence": 49,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/national_defense_service_medal_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "national_defense_service_medal_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "national_defense_service_medal_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "national_defense_service_medal_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "national_defense_service_medal_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "national_defense_service_medal_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "antarctica_service_ribbon",
+    "name": "Antarctica Service Ribbon",
+    "precedence": 50,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/antarctica_service_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "antarctica_service_ribbon-bronze_winter_over",
+          "label": "B winter"
+        },
+        {
+          "value": "antarctica_service_ribbon-silver_winter_over",
+          "label": "S winter"
+        },
+        {
+          "value": "antarctica_service_ribbon-gold_winter_over",
+          "label": "G winter"
+        }
+      ]
+    }
+  },
+  {
+    "id": "coast_guard_arctic_service_ribbon",
+    "name": "Coast Guard Arctic Service Medal Ribbon",
+    "precedence": 51,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/coast_guard_arctic_service_ribbon.png"
+    },
+    "links": {}
+  },
+  {
+    "id": "armed_forces_expeditionary_ribbon",
+    "name": "Armed Forces Expeditionary Ribbon",
+    "precedence": 52,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/armed_forces_expeditionary_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "armed_forces_expeditionary_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "armed_forces_expeditionary_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "armed_forces_expeditionary_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "armed_forces_expeditionary_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "armed_forces_expeditionary_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "armed_forces_expeditionary_ribbon-arrowhead",
+          "label": "ARROW"
+        }
+      ]
+    }
+  },
+  {
+    "id": "vietnam_service_ribbon",
+    "name": "Vietnam Service Ribbon",
+    "precedence": 53,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/vietnam_service_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "vietnam_service_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "vietnam_service_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "vietnam_service_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "vietnam_service_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "vietnam_service_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "vietnam_service_ribbon-6_bronze_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "vietnam_service_ribbon-7_bronze_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "vietnam_service_ribbon-8_bronze_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "vietnam_service_ribbon-9_bronze_star",
+          "label": "9 STAR"
+        },
+        {
+          "value": "vietnam_service_ribbon-arrowhead",
+          "label": "ARROW"
+        }
+      ]
+    }
+  },
+  {
+    "id": "southwest_asia_service_ribbon",
+    "name": "Southwest Asia Service Ribbon",
+    "precedence": 54,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/southwest_asia_service_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "southwest_asia_service_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "southwest_asia_service_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "southwest_asia_service_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "southwest_asia_service_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "southwest_asia_service_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "southwest_asia_service_ribbon-6_bronze_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "southwest_asia_service_ribbon-7_bronze_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "southwest_asia_service_ribbon-8_bronze_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "southwest_asia_service_ribbon-9_bronze_star",
+          "label": "9 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "kosovo_campaign_ribbon",
+    "name": "Kosovo Campaign Ribbon",
+    "precedence": 55,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/kosovo_campaign_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "kosovo_campaign_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "kosovo_campaign_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "kosovo_campaign_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "kosovo_campaign_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "kosovo_campaign_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "afghanistan_campaign_ribbon",
+    "name": "Afghanistan Campaign Medal Ribbon",
+    "precedence": 56,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/afghanistan_campaign_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "afghanistan_campaign_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "afghanistan_campaign_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "afghanistan_campaign_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "afghanistan_campaign_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "afghanistan_campaign_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "afghanistan_campaign_ribbon-arrowhead",
+          "label": "ARROW"
+        },
+        {
+          "value": "afghanistan_campaign_ribbon-1_bronze_star_arrowhead",
+          "label": "1 STAR ARROW"
+        },
+        {
+          "value": "afghanistan_campaign_ribbon-2_bronze_star_arrowhead",
+          "label": "2 STAR ARROW"
+        },
+        {
+          "value": "afghanistan_campaign_ribbon-3_bronze_star_arrowhead",
+          "label": "3 STAR ARROW"
+        },
+        {
+          "value": "afghanistan_campaign_ribbon-4_bronze_star_arrowhead",
+          "label": "4 STAR ARROW"
+        },
+        {
+          "value": "afghanistan_campaign_ribbon-5_bronze_star_arrowhead",
+          "label": "5 STAR ARROW"
+        }
+      ]
+    }
+  },
+  {
+    "id": "iraq_campaign_ribbon",
+    "name": "Iraq Campaign Medal Ribbon",
+    "precedence": 57,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/iraq_campaign_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "iraq_campaign_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "iraq_campaign_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "iraq_campaign_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "iraq_campaign_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "iraq_campaign_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "iraq_campaign_ribbon-arrowhead",
+          "label": "ARROW"
+        },
+        {
+          "value": "iraq_campaign_ribbon-1_bronze_star_arrowhead",
+          "label": "1 STAR ARROW"
+        },
+        {
+          "value": "iraq_campaign_ribbon-2_bronze_star_arrowhead",
+          "label": "2 STAR ARROW"
+        },
+        {
+          "value": "iraq_campaign_ribbon-3_bronze_star_arrowhead",
+          "label": "3 STAR ARROW"
+        },
+        {
+          "value": "iraq_campaign_ribbon-4_bronze_star_arrowhead",
+          "label": "4 STAR ARROW"
+        },
+        {
+          "value": "iraq_campaign_ribbon-5_bronze_star_arrowhead",
+          "label": "5 STAR ARROW"
+        }
+      ]
+    }
+  },
+  {
+    "id": "inherent_resolve_campaign_ribbon",
+    "name": "Inherent Resolve Campaign Medal",
+    "precedence": 58,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/inherent_resolve_campaign_ribbon.png"
+    },
+    "links": {
+      "detailHref": "/inherent-resolve-campaign-medal/"
+    },
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "inherent_resolve_campaign_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "inherent_resolve_campaign_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "inherent_resolve_campaign_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "inherent_resolve_campaign_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "inherent_resolve_campaign_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "inherent_resolve_campaign_ribbon-6_bronze_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "inherent_resolve_campaign_ribbon-7_bronze_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "inherent_resolve_campaign_ribbon-8_bronze_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "inherent_resolve_campaign_ribbon-9_bronze_star",
+          "label": "9 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "global_war_on_terrorism_expeditionary_ribbon",
+    "name": "Global War on Terrorism Expeditionary Ribbon",
+    "precedence": 59,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/global_war_on_terrorism_expeditionary_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "global_war_on_terrorism_expeditionary_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "global_war_on_terrorism_expeditionary_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "global_war_on_terrorism_expeditionary_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "global_war_on_terrorism_expeditionary_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "global_war_on_terrorism_expeditionary_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "global_war_on_terrorism_expeditionary_ribbon-arrowhead",
+          "label": "ARROW"
+        },
+        {
+          "value": "global_war_on_terrorism_expeditionary_ribbon-1_bronze_star_arrowhead",
+          "label": "1 STAR ARROW"
+        },
+        {
+          "value": "global_war_on_terrorism_expeditionary_ribbon-2_bronze_star_arrowhead",
+          "label": "2 STAR ARROW"
+        },
+        {
+          "value": "global_war_on_terrorism_expeditionary_ribbon-3_bronze_star_arrowhead",
+          "label": "3 STAR ARROW"
+        },
+        {
+          "value": "global_war_on_terrorism_expeditionary_ribbon-4_bronze_star_arrowhead",
+          "label": "4 STAR ARROW"
+        },
+        {
+          "value": "global_war_on_terrorism_expeditionary_ribbon-5_bronze_star_arrowhead",
+          "label": "5 STAR ARROW"
+        }
+      ]
+    }
+  },
+  {
+    "id": "global_war_terrorism_service_ribbon",
+    "name": "Global War Terrorism Service Ribbon",
+    "precedence": 60,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/global_war_terrorism_service_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "global_war_terrorism_service_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "global_war_terrorism_service_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "global_war_terrorism_service_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "global_war_terrorism_service_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "global_war_terrorism_service_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "global_war_terrorism_service_ribbon-6_bronze_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "global_war_terrorism_service_ribbon-7_bronze_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "global_war_terrorism_service_ribbon-8_bronze_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "global_war_terrorism_service_ribbon-9_bronze_star",
+          "label": "9 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "korea_defense_service_ribbon",
+    "name": "Korea Defense Service Ribbon",
+    "precedence": 61,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/korea_defense_service_ribbon.png"
+    },
+    "links": {}
+  },
+  {
+    "id": "armed_forces_service_ribbon",
+    "name": "Armed Forces Service Ribbon",
+    "precedence": 62,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/armed_forces_service_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "armed_forces_service_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "armed_forces_service_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "armed_forces_service_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "armed_forces_service_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "armed_forces_service_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "armed_forces_service_ribbon-6_bronze_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "armed_forces_service_ribbon-7_bronze_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "armed_forces_service_ribbon-8_bronze_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "armed_forces_service_ribbon-9_bronze_star",
+          "label": "9 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "humanitarian_service_ribbon",
+    "name": "Humanitarian Service Ribbon",
+    "precedence": 63,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/humanitarian_service_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "humanitarian_service_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "humanitarian_service_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "humanitarian_service_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "humanitarian_service_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "humanitarian_service_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "humanitarian_service_ribbon-6_bronze_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "humanitarian_service_ribbon-7_bronze_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "humanitarian_service_ribbon-8_bronze_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "humanitarian_service_ribbon-9_bronze_star",
+          "label": "9 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "outstanding_volunteer_ribbon",
+    "name": "Outstanding Volunteer Ribbon",
+    "precedence": 64,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/outstanding_volunteer_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "outstanding_volunteer_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "outstanding_volunteer_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "outstanding_volunteer_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "outstanding_volunteer_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "outstanding_volunteer_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "outstanding_volunteer_ribbon-6_bronze_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "outstanding_volunteer_ribbon-7_bronze_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "outstanding_volunteer_ribbon-8_bronze_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "outstanding_volunteer_ribbon-9_bronze_star",
+          "label": "9 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "armed_forces_reserve_ribbon",
+    "name": "Armed Forces Reserve Ribbon",
+    "precedence": 65,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/armed_forces_reserve_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "armed_forces_reserve_ribbon-bronze_hour_glass",
+          "label": "B GLASS"
+        },
+        {
+          "value": "armed_forces_reserve_ribbon-silver_hour_glass",
+          "label": "S GLASS"
+        },
+        {
+          "value": "armed_forces_reserve_ribbon-gold_hour_glass",
+          "label": "G HOUR"
+        },
+        {
+          "value": "armed_forces_reserve_ribbon-mobilization",
+          "label": "M MOBI"
+        }
+      ]
+    }
+  },
+  {
+    "id": "vietnam_gallantry_cross_ribbon",
+    "name": "Vietnam Gallantry Cross Ribbon",
+    "precedence": 66,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/vietnam_gallantry_cross_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "vietnam_gallantry_cross_ribbon-palm_device",
+          "label": "PALM"
+        }
+      ]
+    }
+  },
+  {
+    "id": "vietnam_armed_forces_honor_1c_ribbon",
+    "name": "Vietnam Armed Forces Honor 1C Ribbon",
+    "precedence": 67,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/vietnam_armed_forces_honor_1c_ribbon.png"
+    },
+    "links": {}
+  },
+  {
+    "id": "vietnam_armed_forces_honor_2c_ribbon",
+    "name": "Vietnam Armed Forces Honor 2C Ribbon",
+    "precedence": 68,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/vietnam_armed_forces_honor_2c_ribbon.png"
+    },
+    "links": {}
+  },
+  {
+    "id": "vietnam_civil_action_1c_ribbon",
+    "name": "Vietnam Civil Action 1C Ribbon",
+    "precedence": 69,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/vietnam_civil_action_1c_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "vietnam_civil_action_1c_ribbon-palm_device",
+          "label": "PALM"
+        }
+      ]
+    }
+  },
+  {
+    "id": "vietnam_civil_action_2c_ribbon",
+    "name": "Vietnam Civil Action 2C Ribbon",
+    "precedence": 70,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/vietnam_civil_action_2c_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "vietnam_civil_action_2c_ribbon-palm_device",
+          "label": "PALM"
+        }
+      ]
+    }
+  },
+  {
+    "id": "philippines_republic_presidential_unit_citation_ribbon",
+    "name": "Philippines Republic Presidential Unit Citation Ribbon",
+    "precedence": 71,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/philippines_republic_presidential_unit_citation_ribbon.png"
+    },
+    "links": {}
+  },
+  {
+    "id": "republic_of_korea_presidential_unit_citation_ribbon",
+    "name": "Republic of Korea Presidential Unit Citation Ribbon",
+    "precedence": 72,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/republic_of_korea_presidential_unit_citation_ribbon.png"
+    },
+    "links": {}
+  },
+  {
+    "id": "republic_of_vietnam_presidential_unit_citation_ribbon",
+    "name": "Republic of Vietnam Presidential Unit Citation Ribbon",
+    "precedence": 73,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/republic_of_vietnam_presidential_unit_citation_ribbon.png"
+    },
+    "links": {}
+  },
+  {
+    "id": "republic_of_vietnam_gallantry_cross_unit_citation_ribbon",
+    "name": "Republic of Vietnam Gallantry Cross Unit Citation Ribbon",
+    "precedence": 74,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/republic_of_vietnam_gallantry_cross_unit_citation_ribbon.png"
+    },
+    "links": {}
+  },
+  {
+    "id": "republic_of_vietnam_civil_action_ribbon",
+    "name": "Republic of Vietnam Civil Action Ribbon",
+    "precedence": 75,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/republic_of_vietnam_civil_action_ribbon.png"
+    },
+    "links": {}
+  },
+  {
+    "id": "philippine_defense_ribbon",
+    "name": "Philippine Defense Ribbon",
+    "precedence": 76,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/philippine_defense_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "philippine_defense_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "philippine_defense_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "philippine_defense_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "philippine_defense_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "philippine_defense_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "philippine_defense_ribbon-6_bronze_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "philippine_defense_ribbon-7_bronze_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "philippine_defense_ribbon-8_bronze_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "philippine_defense_ribbon-9_bronze_star",
+          "label": "9 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "philippine_liberation_ribbon",
+    "name": "Philippine Liberation Ribbon",
+    "precedence": 77,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/philippine_liberation_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "philippine_liberation_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "philippine_liberation_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "philippine_liberation_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "philippine_liberation_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "philippine_liberation_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "philippine_liberation_ribbon-6_bronze_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "philippine_liberation_ribbon-7_bronze_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "philippine_liberation_ribbon-8_bronze_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "philippine_liberation_ribbon-9_bronze_star",
+          "label": "9 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "philippine_independence_ribbon",
+    "name": "Philippine Independence Ribbon",
+    "precedence": 78,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/philippine_independence_ribbon.png"
+    },
+    "links": {}
+  },
+  {
+    "id": "korea_service_united_nations_ribbon",
+    "name": "Korea Service United Nations Ribbon",
+    "precedence": 79,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/korea_service_united_nations_ribbon.png"
+    },
+    "links": {}
+  },
+  {
+    "id": "united_nations_ribbon",
+    "name": "United Nations Ribbon",
+    "precedence": 80,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/united_nations_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "united_nations_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "united_nations_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "united_nations_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "united_nations_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "united_nations_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "united_nations_ribbon-6_bronze_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "united_nations_ribbon-7_bronze_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "united_nations_ribbon-8_bronze_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "united_nations_ribbon-9_bronze_star",
+          "label": "9 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "nato_medal_meritorious_ribbon",
+    "name": "Nato Medal Meritorious Ribbon",
+    "precedence": 81,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/nato_medal_meritorious_ribbon.png"
+    },
+    "links": {
+      "detailHref": "/nato-medal/"
+    },
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "nato_medal_meritorious_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "nato_medal_meritorious_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "nato_medal_meritorious_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "nato_medal_meritorious_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "nato_medal_meritorious_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "nato_medal_meritorious_ribbon-6_bronze_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "nato_medal_meritorious_ribbon-7_bronze_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "nato_medal_meritorious_ribbon-8_bronze_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "nato_medal_meritorious_ribbon-9_bronze_star",
+          "label": "9 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "nato_bosnia_ribbon",
+    "name": "Nato Bosnia Ribbon",
+    "precedence": 82,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/nato_bosnia_ribbon.png"
+    },
+    "links": {
+      "detailHref": "/nato-medal/"
+    },
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "nato_bosnia_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "nato_bosnia_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "nato_bosnia_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "nato_bosnia_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "nato_bosnia_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "nato_bosnia_ribbon-6_bronze_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "nato_bosnia_ribbon-7_bronze_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "nato_bosnia_ribbon-8_bronze_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "nato_bosnia_ribbon-9_bronze_star",
+          "label": "9 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "nato_kosovo_ribbon",
+    "name": "Nato Kosovo Ribbon",
+    "precedence": 83,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/nato_kosovo_ribbon.png"
+    },
+    "links": {
+      "detailHref": "/nato-medal/"
+    },
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "nato_kosovo_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "nato_kosovo_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "nato_kosovo_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "nato_kosovo_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "nato_kosovo_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "nato_kosovo_ribbon-6_bronze_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "nato_kosovo_ribbon-7_bronze_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "nato_kosovo_ribbon-8_bronze_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "nato_kosovo_ribbon-9_bronze_star",
+          "label": "9 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "nato_medal_non_article_5_ribbon",
+    "name": "Nato Non Article 5 Ribbon",
+    "precedence": 84,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/nato_medal_non_article_5_ribbon.png"
+    },
+    "links": {
+      "detailHref": "/nato-medal/"
+    },
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "nato_medal_non_article_5_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "nato_medal_non_article_5_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "nato_medal_non_article_5_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "nato_medal_non_article_5_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "nato_medal_non_article_5_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "nato_medal_non_article_5_ribbon-6_bronze_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "nato_medal_non_article_5_ribbon-7_bronze_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "nato_medal_non_article_5_ribbon-8_bronze_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "nato_medal_non_article_5_ribbon-9_bronze_star",
+          "label": "9 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "nato_isaf_ribbon",
+    "name": "Nato ISAF Ribbon",
+    "precedence": 85,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/nato_isaf_ribbon.png"
+    },
+    "links": {
+      "detailHref": "/nato-medal/"
+    },
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "nato_isaf_ribbon-1_bronze_star",
+          "label": "1 STAR"
+        },
+        {
+          "value": "nato_isaf_ribbon-2_bronze_star",
+          "label": "2 STAR"
+        },
+        {
+          "value": "nato_isaf_ribbon-3_bronze_star",
+          "label": "3 STAR"
+        },
+        {
+          "value": "nato_isaf_ribbon-4_bronze_star",
+          "label": "4 STAR"
+        },
+        {
+          "value": "nato_isaf_ribbon-5_bronze_star",
+          "label": "5 STAR"
+        },
+        {
+          "value": "nato_isaf_ribbon-6_bronze_star",
+          "label": "6 STAR"
+        },
+        {
+          "value": "nato_isaf_ribbon-7_bronze_star",
+          "label": "7 STAR"
+        },
+        {
+          "value": "nato_isaf_ribbon-8_bronze_star",
+          "label": "8 STAR"
+        },
+        {
+          "value": "nato_isaf_ribbon-9_bronze_star",
+          "label": "9 STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "multinational_forces_and_observer_ribbon",
+    "name": "Multinational Forces and Observers Medal",
+    "precedence": 86,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/multinational_forces_and_observer_ribbon.png"
+    },
+    "links": {
+      "detailHref": "/multinational-force-and-observers-medal/"
+    },
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "multinational_forces_and_observer_ribbon-1_numeral",
+          "label": "NO 1"
+        },
+        {
+          "value": "multinational_forces_and_observer_ribbon-2_numeral",
+          "label": "NO 2"
+        },
+        {
+          "value": "multinational_forces_and_observer_ribbon-3_numeral",
+          "label": "NO 3"
+        },
+        {
+          "value": "multinational_forces_and_observer_ribbon-4_numeral",
+          "label": "NO 4"
+        },
+        {
+          "value": "multinational_forces_and_observer_ribbon-5_numeral",
+          "label": "NO 5"
+        },
+        {
+          "value": "multinational_forces_and_observer_ribbon-6_numeral",
+          "label": "NO 6"
+        },
+        {
+          "value": "multinational_forces_and_observer_ribbon-7_numeral",
+          "label": "NO 7"
+        },
+        {
+          "value": "multinational_forces_and_observer_ribbon-8_numeral",
+          "label": "NO 8"
+        },
+        {
+          "value": "multinational_forces_and_observer_ribbon-9_numeral",
+          "label": "NO 9"
+        }
+      ]
+    }
+  },
+  {
+    "id": "inter_american_defense_board_ribbon",
+    "name": "Inter American Defense Board Medal",
+    "precedence": 87,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/inter_american_defense_board_ribbon.png"
+    },
+    "links": {
+      "detailHref": "/inter-american-defense-board-medal/"
+    },
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "inter_american_defense_board_ribbon-1_silver_star",
+          "label": "1 SILVER STAR"
+        },
+        {
+          "value": "inter_american_defense_board_ribbon-1_gold_star",
+          "label": "1 GOLD STAR"
+        },
+        {
+          "value": "inter_american_defense_board_ribbon-2_gold_star",
+          "label": "2 GOLD STAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": "republic_of_vietnam_campaign_ribbon",
+    "name": "Republic of Vietnam Campaign Medal",
+    "precedence": 88,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/republic_of_vietnam_campaign_ribbon.png"
+    },
+    "links": {
+      "detailHref": "/republic-of-vietnam-campaign-medal/"
+    }
+  },
+  {
+    "id": "kuwait_liberation_saudi_arabia_ribbon",
+    "name": "Kuwait Liberation Saudi Arabia Medal",
+    "precedence": 89,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/kuwait_liberation_saudi_arabia_ribbon.png"
+    },
+    "links": {
+      "detailHref": "/kuwait-liberation-medal-saudi-arabia/"
+    }
+  },
+  {
+    "id": "kuwait_liberation_kuwait_ribbon",
+    "name": "Kuwait Liberation Kuwait Medal",
+    "precedence": 90,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/kuwait_liberation_kuwait_ribbon.png"
+    },
+    "links": {
+      "detailHref": "/kuwait-liberation-medal-kuwait/"
+    }
+  },
+  {
+    "id": "republic_of_korea_service_ribbon",
+    "name": "Republic of Korea Service Medal",
+    "precedence": 91,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/republic_of_korea_service_ribbon.png"
+    },
+    "links": {}
+  },
+  {
+    "id": "navy_rifleman_ribbon",
+    "name": "Navy Rifleman Ribbon",
+    "precedence": 92,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/navy_rifleman_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "navy_rifleman_ribbon",
+          "label": "M"
+        },
+        {
+          "value": "navy_rifleman_ribbon-sharpshooter",
+          "label": "S"
+        },
+        {
+          "value": "navy_rifleman_ribbon-expert",
+          "label": "E"
+        }
+      ]
+    }
+  },
+  {
+    "id": "navy_pistol_ribbon",
+    "name": "Navy Pistol Ribbon",
+    "precedence": 93,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/navy_pistol_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "navy_pistol_ribbon",
+          "label": "M"
+        },
+        {
+          "value": "navy_pistol_ribbon-sharpshooter",
+          "label": "S"
+        },
+        {
+          "value": "navy_pistol_ribbon-expert",
+          "label": "E"
+        }
+      ]
+    }
+  },
+  {
+    "id": "coast_guard_rifle_marksmanship_ribbon",
+    "name": "Coast Guard Rifle Marksmanship Ribbon",
+    "precedence": 94,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/coast_guard_rifle_marksmanship_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "coast_guard_rifle_marksmanship_ribbon",
+          "label": "M"
+        },
+        {
+          "value": "coast_guard_rifle_marksmanship_ribbon-cgsharpshooter",
+          "label": "S"
+        },
+        {
+          "value": "coast_guard_rifle_marksmanship_ribbon-cgexpert",
+          "label": "E"
+        },
+        {
+          "value": "coast_guard_rifle_marksmanship_ribbon-distinguished_markman",
+          "label": "DISTINGUISHED"
+        },
+        {
+          "value": "coast_guard_rifle_marksmanship_ribbon-silver_rifle_excellence",
+          "label": "SILVER EXPERT"
+        },
+        {
+          "value": "coast_guard_rifle_marksmanship_ribbon-bronze_rifle_excellence",
+          "label": "BRONZE EXPERT"
+        }
+      ]
+    }
+  },
+  {
+    "id": "coast_guard_pistol_marksmanship_ribbon",
+    "name": "Coast Guard Pistol Marksmanship Ribbon",
+    "precedence": 95,
+    "branches": [
+      "shared"
+    ],
+    "image": {
+      "legacyPath": "/image/coast_guard_pistol_marksmanship_ribbon.png"
+    },
+    "links": {},
+    "device": {
+      "options": [
+        {
+          "value": "",
+          "label": "DEVICE"
+        },
+        {
+          "value": "coast_guard_pistol_marksmanship_ribbon",
+          "label": "M"
+        },
+        {
+          "value": "coast_guard_pistol_marksmanship_ribbon-cgsharpshooter",
+          "label": "S"
+        },
+        {
+          "value": "coast_guard_pistol_marksmanship_ribbon-cgexpert",
+          "label": "E"
+        },
+        {
+          "value": "coast_guard_pistol_marksmanship_ribbon-distinguished_pistol",
+          "label": "DISTINGUISHED"
+        },
+        {
+          "value": "coast_guard_pistol_marksmanship_ribbon-silver_pistol_shot",
+          "label": "SILVER SHOT"
+        },
+        {
+          "value": "coast_guard_pistol_marksmanship_ribbon-bronze_pistol_shot",
+          "label": "BRONZE SHOT"
+        }
+      ]
+    }
+  }
+]

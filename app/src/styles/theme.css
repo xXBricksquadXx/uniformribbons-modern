@@ -1,0 +1,232 @@
+﻿:root{
+  --bg-1: #f4efe4;
+  --bg-2: #ece4d2;
+  --ink: #1d1b16;
+  --muted: rgba(29,27,22,.65);
+  --glass: rgba(255,255,255,.25);
+  --glass-2: rgba(255,255,255,.12);
+  --stroke: rgba(255,255,255,.35);
+  --shadow: 0 10px 30px rgba(0,0,0,.12);
+}
+
+html, body { height: 100%; }
+body{
+  margin: 0;
+  color: var(--ink);
+  background:
+    radial-gradient(1200px 600px at 15% 10%, rgba(255,255,255,.55), transparent 60%),
+    radial-gradient(900px 500px at 85% 25%, rgba(255,255,255,.35), transparent 60%),
+    linear-gradient(120deg, var(--bg-1), var(--bg-2));
+}
+
+/* subtle “paper fibers” without an image */
+body::before{
+  content:"";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  opacity: .18;
+  background:
+    repeating-linear-gradient(0deg, rgba(0,0,0,.02), rgba(0,0,0,.02) 1px, transparent 1px, transparent 3px),
+    repeating-linear-gradient(90deg, rgba(0,0,0,.015), rgba(0,0,0,.015) 1px, transparent 1px, transparent 4px);
+  mix-blend-mode: multiply;
+}
+
+a{ color: #0b4aa2; }
+a:hover{ text-decoration: underline; }
+
+.app-shell{
+  min-height: 100vh;
+  padding: 18px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.topbar{
+  position: sticky;
+  top: 12px;
+  z-index: 5;
+  padding: 14px 14px;
+  border-radius: 14px;
+  background: linear-gradient(180deg, var(--glass), var(--glass-2));
+  border: 1px solid var(--stroke);
+  backdrop-filter: blur(10px);
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.topbar h2{
+  margin: 0;
+  font-size: 18px;
+  letter-spacing: .2px;
+}
+
+.controls{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+}
+
+.controls input{
+  width: 360px;
+  max-width: 70vw;
+  padding: 8px 10px;
+  border-radius: 10px;
+  border: 1px solid rgba(0,0,0,.12);
+  background: rgba(255,255,255,.55);
+  outline: none;
+}
+
+.controls button, .controls a.btn{
+  padding: 8px 10px;
+  border-radius: 10px;
+  border: 1px solid rgba(0,0,0,.14);
+  background: rgba(255,255,255,.55);
+  cursor: pointer;
+  text-decoration: none;
+  color: var(--ink);
+}
+
+.controls button:hover, .controls a.btn:hover{
+  background: rgba(255,255,255,.75);
+}
+
+.ribbon-list{
+  margin-top: 14px;
+  padding: 10px;
+  border-radius: 14px;
+  background: rgba(255,255,255,.18);
+  border: 1px solid rgba(255,255,255,.25);
+  backdrop-filter: blur(6px);
+}
+
+.ribbon-item{
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  padding: 10px 8px;
+  border-radius: 12px;
+}
+
+.ribbon-item:hover{
+  background: rgba(255,255,255,.18);
+}
+
+.ribbon-img{
+  width: 120px;
+  height: auto;
+  display: block;
+  border-radius: 6px;
+  box-shadow: 0 6px 14px rgba(0,0,0,.12);
+}
+
+.ribbon-meta{
+  flex: 1;
+  min-width: 240px;
+}
+
+.ribbon-name{
+  font-size: 18px;
+  line-height: 1.1;
+  margin: 0;
+}
+
+.ribbon-sub{
+  margin-top: 4px;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.ribbon-actions{
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.ribbon-actions select{
+  padding: 6px 8px;
+  border-radius: 10px;
+  border: 1px solid rgba(0,0,0,.14);
+  background: rgba(255,255,255,.55);
+}
+
+.ribbon-actions button{
+  padding: 7px 10px;
+  border-radius: 10px;
+  border: 1px solid rgba(0,0,0,.14);
+  background: rgba(255,255,255,.55);
+  cursor: pointer;
+}
+
+.builder-grid{
+  margin-top: 14px;
+  padding: 12px;
+  border-radius: 14px;
+  background: rgba(255,255,255,.18);
+  border: 1px solid rgba(255,255,255,.25);
+  backdrop-filter: blur(6px);
+  display: grid;
+  gap: 10px;
+  align-items: center;
+}
+
+.builder-tile img{
+  width: 130px;
+  height: auto;
+  display: block;
+  border-radius: 6px;
+  box-shadow: 0 6px 14px rgba(0,0,0,.12);
+}
+
+/* device badge overlay (rack preview) */
+.builder-tile{
+  position: relative;
+  width: 130px;
+}
+
+.device-badge{
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  padding: 4px 8px;
+  border-radius: 999px;
+  font-size: 11px;
+  line-height: 1;
+  background: rgba(255,255,255,.65);
+  border: 1px solid rgba(0,0,0,.10);
+  backdrop-filter: blur(6px);
+  box-shadow: 0 6px 14px rgba(0,0,0,.10);
+}
+
+.device-overlay{
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 8px;
+  border-radius: 999px;
+  background: rgba(255,255,255,.65);
+  border: 1px solid rgba(0,0,0,.10);
+  backdrop-filter: blur(6px);
+  box-shadow: 0 6px 14px rgba(0,0,0,.10);
+}
+
+.device-overlay img{
+  width: 18px;
+  height: 18px;
+  display: block;
+}
+
+.device-count{
+  font-size: 11px;
+  line-height: 1;
+  color: rgba(29,27,22,.85);
+  font-weight: 600;
+}

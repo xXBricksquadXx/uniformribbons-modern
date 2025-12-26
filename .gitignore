@@ -1,0 +1,13 @@
+﻿# legacy dump
+/legacy/
+/Parse.zip
+/image.zip
+
+# node
+**/node_modules/
+**/dist/
+**/.vite/
+
+# misc
+.DS_Store
+Thumbs.db
