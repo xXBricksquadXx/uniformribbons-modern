@@ -2,7 +2,7 @@
 import { Link } from "react-router-dom";
 import { useRibbons } from "../data/useRibbons";
 import { useSelectionStore } from "../store/useSelectionStore";
-import { parseDeviceLabel } from "../utils/device";
+import DeviceOverlay from "../components/DeviceOverlay";
 
 export default function Builder() {
   const { ribbons, error } = useRibbons();
@@ -17,6 +17,7 @@ export default function Builder() {
   }, [ribbons, selected]);
 
   if (error) return <div className="app-shell">Error loading ribbons: {error}</div>;
+  if (!ribbons.length) return <div className="app-shell">Loading…</div>;
 
   return (
     <div className="app-shell">
@@ -41,36 +42,26 @@ export default function Builder() {
       </div>
 
       {picked.length === 0 ? (
-        <div className="ribbon-list">No ribbons selected.</div>
+        <div className="ribbon-list" style={{ padding: 16 }}>No ribbons selected.</div>
       ) : (
-        <div className="builder-grid" style={{ gridTemplateColumns: `repeat(${perRow}, 130px)` }}>
+        <div className="builder-grid" style={{ gridTemplateColumns: `repeat(${perRow}, 140px)` }}>
           {picked.map((r) => {
             const deviceValue = selected[r.id]?.deviceValue ?? "";
             const deviceLabel = r.device?.options?.find((o) => o.value === deviceValue)?.label ?? "";
-            const parsed = parseDeviceLabel(deviceLabel);
-
-            const iconSrc =
-              parsed?.kind === "oak" ? "/devices/oak.png" :
-              parsed?.kind === "star" ? "/devices/star.png" :
-              null;
 
             return (
-              <div key={r.id} className="builder-tile">
-                {parsed && iconSrc ? (
-                  <div className="device-overlay" title={parsed.raw}>
-                    <img
-                      src={iconSrc}
-                      alt={parsed.kind}
-                      onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = "none"; }}
-                    />
-                    {typeof parsed.count === "number" ? <span className="device-count">{parsed.count}</span> : null}
-                  </div>
-                ) : null}
+              <div
+                key={r.id}
+                className="builder-tile"
+                style={{ position: "relative", width: 140 }}
+              >
+                <DeviceOverlay label={deviceLabel} />
 
                 <img
                   src={r.image.legacyPath}
                   alt={r.name}
                   title={r.name}
+                  style={{ width: 140, height: "auto", display: "block" }}
                   onError={(e) => {
                     (e.currentTarget as HTMLImageElement).src = "/image/missing.svg";
                   }}

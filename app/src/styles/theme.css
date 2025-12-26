@@ -230,3 +230,55 @@ a:hover{ text-decoration: underline; }
   color: rgba(29,27,22,.85);
   font-weight: 600;
 }
+
+/* device overlay rendered on top of the ribbon */
+.dev-layer{
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dev-icons{
+  display: inline-flex;
+  gap: 6px;
+  padding: 2px 6px;
+  border-radius: 999px;
+  background: rgba(255,255,255,.35);
+  border: 1px solid rgba(0,0,0,.10);
+  backdrop-filter: blur(4px);
+}
+
+.dev-mult{
+  font-size: 11px;
+  font-weight: 700;
+  color: rgba(29,27,22,.85);
+}
+
+/* device overlay rendered on top of the ribbon */
+.dev-layer{
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dev-icons{
+  display: inline-flex;
+  gap: 6px;
+  padding: 2px 6px;
+  border-radius: 999px;
+  background: rgba(255,255,255,.35);
+  border: 1px solid rgba(0,0,0,.10);
+  backdrop-filter: blur(4px);
+}
+
+.dev-mult{
+  font-size: 11px;
+  font-weight: 700;
+  color: rgba(29,27,22,.85);
+}
