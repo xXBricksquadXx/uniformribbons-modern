@@ -2,6 +2,7 @@
 import Catalog from "./routes/Catalog";
 import Builder from "./routes/Builder";
 import RibbonDetail from "./routes/RibbonDetail";
+import About from "./routes/About";
 
 export default function App() {
   return (
@@ -11,6 +12,7 @@ export default function App() {
         <Route path="/catalog" element={<Catalog />} />
         <Route path="/builder" element={<Builder />} />
         <Route path="/ribbon/:ribbonId" element={<RibbonDetail />} />
+        <Route path="/about" element={<About />} />
         <Route path="*" element={<Navigate to="/catalog" replace />} />
       </Routes>
     </BrowserRouter>

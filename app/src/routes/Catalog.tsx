@@ -34,6 +34,7 @@ export default function Catalog() {
           />
           <button onClick={clear}>Clear</button>
           <Link className="btn" to="/builder">Builder ({selectedCount})</Link>
+          <Link className="btn" to="/about">About</Link>
         </div>
       </div>
 
@@ -84,3 +85,4 @@ export default function Catalog() {
     </div>
   );
 }
+
